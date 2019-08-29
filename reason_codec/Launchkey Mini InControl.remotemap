@@ -1,1 +1,1362 @@
-Propellerhead Remote Mapping FileFile Format Version	1.0.0Control Surface Manufacturer	NovationControl Surface Model	Launchkey Mini InControlMap Version	1.4.3Scope	Propellerheads	Combinator//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		Rotary 1Map	Knob 2		Rotary 2Map	Knob 3		Rotary 3Map	Knob 4		Rotary 4Map	Knob 5		Button 1Map	Knob 6		Button 2Map	Knob 7		Button 3Map	Knob 8		Button 4Map	Cliplaunch 1		Run Pattern DevicesMap	Cliplaunch 2		Bypass All FXScope	Propellerheads	SubTractor Analog Synthesizer//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		Filter FreqMap	Knob 2		Filter ResMap	Knob 3		Filter Env AmountMap	Knob 4		LFO1 RateMap	Knob 5		LFO1 AmountMap	Knob 6		LFO2 RateMap	Knob 7		LFO2 AmountMap	Knob 8		Mod Env GainMap	Cliplaunch 1		Osc2 On/OffMap	Cliplaunch 2		Filter2 On/OffScope	Propellerheads	Thor Polysonic Synthesizer//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Pad 1		Pattern Step Gate 1Map	Pad 2		Pattern Step Gate 2Map	Pad 3		Pattern Step Gate 3Map	Pad 4		Pattern Step Gate 4Map	Pad 5		Pattern Step Gate 5Map	Pad 6		Pattern Step Gate 6Map	Pad 7		Pattern Step Gate 7Map	Pad 8		Pattern Step Gate 8Map	Pad 9		Pattern Step Gate 9Map	Pad 10		Pattern Step Gate 10Map	Pad 11		Pattern Step Gate 11Map	Pad 12		Pattern Step Gate 12Map	Pad 13		Pattern Step Gate 13Map	Pad 14		Pattern Step Gate 14Map	Pad 15		Pattern Step Gate 15Map	Pad 16		Pattern Step Gate 16Map	Knob 1		Filter 3 FreqMap	Knob 2		Filter 3 ResMap	Knob 3		LFO 1 RateMap	Knob 4		LFO 2 RateMap	Knob 5		Delay TimeMap	Knob 6		Delay Dry WetMap	Knob 7		Rotary 1Map	Knob 8		Rotary 2Map	Cliplaunch 1		Button 1Map	Cliplaunch 2		Button 2Scope	Propellerheads	Malstrom Graintable Synthesizer//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		Filter A FreqMap	Knob 2		Filter A ResonanceMap	Knob 3		Filter B FreqMap	Knob 4		Filter B ResonanceMap	Knob 5		Modulator A RateMap	Knob 6		Modulator B RateMap	Knob 7		Filter Env AmountMap	Knob 8		Shaper AmountMap	Cliplaunch 1		Modulator A On/OffMap	Cliplaunch 2		Modulator B On/OffScope	Propellerheads	NN19 Digital Sampler//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		Filter FreqMap	Knob 2		Filter ResMap	Knob 3		Filter Freq Mod Wheel AmountMap	Knob 4		Filter Res Mod Wheel AmountMap	Knob 5		Filter Decay Mod Wheel AmountMap	Knob 6		LFO Mod Wheel AmountMap	Knob 7		LFO RateMap	Knob 8		LFO AmountMap	Cliplaunch 1		Filter On/OffMap	Cliplaunch 2		Filter Env InvertScope	Propellerheads	NN-XT Advanced Sampler//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		External ControllerMap	Knob 2		Filter FreqMap	Knob 3		Filter ResMap	Knob 4		Amp Env AttackMap	Knob 5		Amp Env DecayMap	Knob 6		Amp Env ReleaseMap	Knob 7		Mod Env DecayMap	Knob 8		Master VolumeMap	Cliplaunch 1		High Quality InterpolationScope	Propellerheads	Dr.REX Loop Player//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Pad 1		Select Loop 1Map	Pad 2		Select Loop 2Map	Pad 3		Select Loop 3Map	Pad 4		Select Loop 4Map	Pad 9		Select Loop 5Map	Pad 10		Select Loop 6Map	Pad 11		Select Loop 7Map	Pad 12		Select Loop 8Map	Knob 1		Filter FreqMap	Knob 2		Filter ResMap	Knob 3		Filter Env AmountMap	Knob 4		LFO1 RateMap	Knob 5		LFO1 AmountMap	Knob 6		Osc Env AmountMap	Knob 7		Osc OctaveMap	Knob 8		Osc Fine TuneMap	Cliplaunch 1		RunMap	Cliplaunch 2		Filter On/OffScope	Propellerheads	Redrum Drum ComputerDefine Group	Drum_vars	Drum 1	Drum 2	Drum 3	Drum 4	Drum 5	Drum 6	Drum 7	Drum 8//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Pad 1		Drum_vars=Drum 1Map	Pad 2		Drum_vars=Drum 2Map	Pad 3		Drum_vars=Drum 3Map	Pad 4		Drum_vars=Drum 4Map	Pad 5		Drum_vars=Drum 5Map	Pad 6		Drum_vars=Drum 6Map	Pad 7		Drum_vars=Drum 7Map	Pad 8		Drum_vars=Drum 8Map	Pad 9		Channel 1 PlayMap	Pad 10		Channel 2 PlayMap	Pad 11		Channel 3 PlayMap	Pad 12		Channel 4 PlayMap	Pad 13		Channel 5 PlayMap	Pad 14		Channel 6 PlayMap	Pad 15		Channel 7 PlayMap	Pad 16		Channel 8 PlayMap	Knob 1		Drum 1 Pan			Drum 1Map	Knob 2		Drum 1 Send 1 Amount			Drum 1Map	Knob 3		Drum 1 Send 2 Amount			Drum 1Map	Knob 4		Drum 1 Pitch			Drum 1Map	Knob 5		Drum 1 Length			Drum 1Map	Knob 6		Drum 1 Level			Drum 1Map	Knob 1		Drum 2 Pan			Drum 2Map	Knob 2		Drum 2 Send 1 Amount			Drum 2Map	Knob 3		Drum 2 Send 2 Amount			Drum 2Map	Knob 4		Drum 2 Pitch			Drum 2Map	Knob 5		Drum 2 Length			Drum 2Map	Knob 6		Drum 2 Level			Drum 2Map	Knob 1		Drum 3 Pan			Drum 3Map	Knob 2		Drum 3 Send 1 Amount			Drum 3Map	Knob 3		Drum 3 Send 2 Amount			Drum 3Map	Knob 4		Drum 3 Pitch			Drum 3Map	Knob 5		Drum 3 Length			Drum 3Map	Knob 6		Drum 3 Level			Drum 3Map	Knob 1		Drum 4 Pan			Drum 4Map	Knob 2		Drum 4 Send 1 Amount			Drum 4Map	Knob 3		Drum 4 Send 2 Amount			Drum 4Map	Knob 4		Drum 4 Pitch			Drum 4Map	Knob 5		Drum 4 Length			Drum 4Map	Knob 6		Drum 4 Level			Drum 4Map	Knob 1		Drum 5 Pan			Drum 5Map	Knob 2		Drum 5 Send 1 Amount			Drum 5Map	Knob 3		Drum 5 Send 2 Amount			Drum 5Map	Knob 4		Drum 5 Pitch			Drum 5Map	Knob 5		Drum 5 Length			Drum 5Map	Knob 6		Drum 5 Level			Drum 5Map	Knob 1		Drum 6 Pan			Drum 6Map	Knob 2		Drum 6 Send 1 Amount			Drum 6Map	Knob 3		Drum 6 Send 2 Amount			Drum 6Map	Knob 4		Drum 6 Pitch			Drum 6Map	Knob 5		Drum 6 Length			Drum 6Map	Knob 6		Drum 6 Level			Drum 6Map	Knob 1		Drum 7 Pan			Drum 7Map	Knob 2		Drum 7 Send 1 Amount			Drum 7Map	Knob 3		Drum 7 Send 2 Amount			Drum 7Map	Knob 4		Drum 7 Pitch			Drum 7Map	Knob 5		Drum 7 Length			Drum 7Map	Knob 6		Drum 7 Level			Drum 7Map	Knob 1		Drum 8 Pan			Drum 8Map	Knob 2		Drum 8 Send 1 Amount			Drum 8Map	Knob 3		Drum 8 Send 2 Amount			Drum 8Map	Knob 4		Drum 8 Pitch			Drum 8Map	Knob 5		Drum 8 Length			Drum 8Map	Knob 6		Drum 8 Level			Drum 8Map	Knob 7		Pattern Select in BankMap	Knob 8		Bank SelectMap	Cliplaunch 1		RunMap	Cliplaunch 2		Pattern EnableScope	Propellerheads	Kong Drum DesignerDefine Group	Drum_vars	Drum 1	Drum 2	Drum 3	Drum 4	Drum 5	Drum 6	Drum 7	Drum 8	Drum 9	Drum 10	Drum 11	Drum 12	Drum 13	Drum 14	Drum 15	Drum 16//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Pad 1		Drum_vars=Drum 5Map	Pad 2		Drum_vars=Drum 6Map	Pad 3		Drum_vars=Drum 7Map	Pad 4		Drum_vars=Drum 8Map	Pad 5		Drum_vars=Drum 13Map	Pad 6		Drum_vars=Drum 14Map	Pad 7		Drum_vars=Drum 15Map	Pad 8		Drum_vars=Drum 16Map	Pad 9		Drum_vars=Drum 1Map	Pad 10		Drum_vars=Drum 2Map	Pad 11		Drum_vars=Drum 3Map	Pad 12		Drum_vars=Drum 4Map	Pad 13		Drum_vars=Drum 9Map	Pad 14		Drum_vars=Drum 10Map	Pad 15		Drum_vars=Drum 11Map	Pad 16		Drum_vars=Drum 12Map	Knob 1		Drum 1 Pitch Offset			Drum 1Map	Knob 2		Drum 1 Decay Offset			Drum 1Map	Knob 3		Drum 1 Bus FX Send			Drum 1Map	Knob 4		Drum 1 Aux 1 Send			Drum 1Map	Knob 5		Drum 1 Aux 2 Send			Drum 1Map	Knob 6		Drum 1 Tone			Drum 1Map	Knob 7		Drum 1 Pan			Drum 1Map	Knob 8		Drum 1 Level			Drum 1Map	Cliplaunch 1		Pad 1 Mute			Drum 1Map	Cliplaunch 2		Pad 1 Solo			Drum 1Map	Knob 1		Drum 2 Pitch Offset			Drum 2Map	Knob 2		Drum 2 Decay Offset			Drum 2Map	Knob 3		Drum 2 Bus FX Send			Drum 2Map	Knob 4		Drum 2 Aux 1 Send			Drum 2Map	Knob 5		Drum 2 Aux 2 Send			Drum 2Map	Knob 6		Drum 2 Tone			Drum 2Map	Knob 7		Drum 2 Pan			Drum 2Map	Knob 8		Drum 2 Level			Drum 2Map	Cliplaunch 1		Pad 2 Mute			Drum 2Map	Cliplaunch 2		Pad 2 Solo			Drum 2Map	Knob 1		Drum 3 Pitch Offset			Drum 3Map	Knob 2		Drum 3 Decay Offset			Drum 3Map	Knob 3		Drum 3 Bus FX Send			Drum 3Map	Knob 4		Drum 3 Aux 1 Send			Drum 3Map	Knob 5		Drum 3 Aux 2 Send			Drum 3Map	Knob 6		Drum 3 Tone			Drum 3Map	Knob 7		Drum 3 Pan			Drum 3Map	Knob 8		Drum 3 Level			Drum 3Map	Cliplaunch 1		Pad 3 Mute			Drum 3Map	Cliplaunch 2		Pad 3 Solo			Drum 3Map	Knob 1		Drum 4 Pitch Offset			Drum 4Map	Knob 2		Drum 4 Decay Offset			Drum 4Map	Knob 3		Drum 4 Bus FX Send			Drum 4Map	Knob 4		Drum 4 Aux 1 Send			Drum 4Map	Knob 5		Drum 4 Aux 2 Send			Drum 4Map	Knob 6		Drum 4 Tone			Drum 4Map	Knob 7		Drum 4 Pan			Drum 4Map	Knob 8		Drum 4 Level			Drum 4Map	Cliplaunch 1		Pad 4 Mute			Drum 4Map	Cliplaunch 2		Pad 4 Solo			Drum 4Map	Knob 1		Drum 5 Pitch Offset			Drum 5Map	Knob 2		Drum 5 Decay Offset			Drum 5Map	Knob 3		Drum 5 Bus FX Send			Drum 5Map	Knob 4		Drum 5 Aux 1 Send			Drum 5Map	Knob 5		Drum 5 Aux 2 Send			Drum 5Map	Knob 6		Drum 5 Tone			Drum 5Map	Knob 7		Drum 5 Pan			Drum 5Map	Knob 8		Drum 5 Level			Drum 5Map	Cliplaunch 1		Pad 5 Mute			Drum 5Map	Cliplaunch 2		Pad 5 Solo			Drum 5Map	Knob 1		Drum 6 Pitch Offset			Drum 6Map	Knob 2		Drum 6 Decay Offset			Drum 6Map	Knob 3		Drum 6 Bus FX Send			Drum 6Map	Knob 4		Drum 6 Aux 1 Send			Drum 6Map	Knob 5		Drum 6 Aux 2 Send			Drum 6Map	Knob 6		Drum 6 Tone			Drum 6Map	Knob 7		Drum 6 Pan			Drum 6Map	Knob 8		Drum 6 Level			Drum 6Map	Cliplaunch 1		Pad 6 Mute			Drum 6Map	Cliplaunch 2		Pad 6 Solo			Drum 6Map	Knob 1		Drum 7 Pitch Offset			Drum 7Map	Knob 2		Drum 7 Decay Offset			Drum 7Map	Knob 3		Drum 7 Bus FX Send			Drum 7Map	Knob 4		Drum 7 Aux 1 Send			Drum 7Map	Knob 5		Drum 7 Aux 2 Send			Drum 7Map	Knob 6		Drum 7 Tone			Drum 7Map	Knob 7		Drum 7 Pan			Drum 7Map	Knob 8		Drum 7 Level			Drum 7Map	Cliplaunch 1		Pad 7 Mute			Drum 7Map	Cliplaunch 2		Pad 7 Solo			Drum 7Map	Knob 1		Drum 8 Pitch Offset			Drum 8Map	Knob 2		Drum 8 Decay Offset			Drum 8Map	Knob 3		Drum 8 Bus FX Send			Drum 8Map	Knob 4		Drum 8 Aux 1 Send			Drum 8Map	Knob 5		Drum 8 Aux 2 Send			Drum 8Map	Knob 6		Drum 8 Tone			Drum 8Map	Knob 7		Drum 8 Pan			Drum 8Map	Knob 8		Drum 8 Level			Drum 8Map	Cliplaunch 1		Pad 8 Mute			Drum 8Map	Cliplaunch 2		Pad 8 Solo			Drum 8Map	Knob 1		Drum 9 Pitch Offset			Drum 9Map	Knob 2		Drum 9 Decay Offset			Drum 9Map	Knob 3		Drum 9 Bus FX Send			Drum 9Map	Knob 4		Drum 9 Aux 1 Send			Drum 9Map	Knob 5		Drum 9 Aux 2 Send			Drum 9Map	Knob 6		Drum 9 Tone			Drum 9Map	Knob 7		Drum 9 Pan			Drum 9Map	Knob 8		Drum 9 Level			Drum 9Map	Cliplaunch 1		Pad 9 Mute			Drum 9Map	Cliplaunch 2		Pad 9 Solo			Drum 9Map	Knob 1		Drum 10 Pitch Offset			Drum 10Map	Knob 2		Drum 10 Decay Offset			Drum 10Map	Knob 3		Drum 10 Bus FX Send			Drum 10Map	Knob 4		Drum 10 Aux 1 Send			Drum 10Map	Knob 5		Drum 10 Aux 2 Send			Drum 10Map	Knob 6		Drum 10 Tone			Drum 10Map	Knob 7		Drum 10 Pan			Drum 10Map	Knob 8		Drum 10 Level			Drum 10Map	Cliplaunch 1		Pad 10 Mute			Drum 10Map	Cliplaunch 2		Pad 10 Solo			Drum 10Map	Knob 1		Drum 11 Pitch Offset			Drum 11Map	Knob 2		Drum 11 Decay Offset			Drum 11Map	Knob 3		Drum 11 Bus FX Send			Drum 11Map	Knob 4		Drum 11 Aux 1 Send			Drum 11Map	Knob 5		Drum 11 Aux 2 Send			Drum 11Map	Knob 6		Drum 11 Tone			Drum 11Map	Knob 7		Drum 11 Pan			Drum 11Map	Knob 8		Drum 11 Level			Drum 11Map	Cliplaunch 1		Pad 11 Mute			Drum 11Map	Cliplaunch 2		Pad 11 Solo			Drum 11Map	Knob 1		Drum 12 Pitch Offset			Drum 12Map	Knob 2		Drum 12 Decay Offset			Drum 12Map	Knob 3		Drum 12 Bus FX Send			Drum 12Map	Knob 4		Drum 12 Aux 1 Send			Drum 12Map	Knob 5		Drum 12 Aux 2 Send			Drum 12Map	Knob 6		Drum 12 Tone			Drum 12Map	Knob 7		Drum 12 Pan			Drum 12Map	Knob 8		Drum 12 Level			Drum 12Map	Cliplaunch 1		Pad 12 Mute			Drum 12Map	Cliplaunch 2		Pad 12 Solo			Drum 12Map	Knob 1		Drum 13 Pitch Offset			Drum 13Map	Knob 2		Drum 13 Decay Offset			Drum 13Map	Knob 3		Drum 13 Bus FX Send			Drum 13Map	Knob 4		Drum 13 Aux 1 Send			Drum 13Map	Knob 5		Drum 13 Aux 2 Send			Drum 13Map	Knob 6		Drum 13 Tone			Drum 13Map	Knob 7		Drum 13 Pan			Drum 13Map	Knob 8		Drum 13 Level			Drum 13Map	Cliplaunch 1		Pad 13 Mute			Drum 13Map	Cliplaunch 2		Pad 13 Solo			Drum 13Map	Knob 1		Drum 14 Pitch Offset			Drum 14Map	Knob 2		Drum 14 Decay Offset			Drum 14Map	Knob 3		Drum 14 Bus FX Send			Drum 14Map	Knob 4		Drum 14 Aux 1 Send			Drum 14Map	Knob 5		Drum 14 Aux 2 Send			Drum 14Map	Knob 6		Drum 14 Tone			Drum 14Map	Knob 7		Drum 14 Pan			Drum 14Map	Knob 8		Drum 14 Level			Drum 14Map	Cliplaunch 1		Pad 14 Mute			Drum 14Map	Cliplaunch 2		Pad 14 Solo			Drum 14Map	Knob 1		Drum 15 Pitch Offset			Drum 15Map	Knob 2		Drum 15 Decay Offset			Drum 15Map	Knob 3		Drum 15 Bus FX Send			Drum 15Map	Knob 4		Drum 15 Aux 1 Send			Drum 15Map	Knob 5		Drum 15 Aux 2 Send			Drum 15Map	Knob 6		Drum 15 Tone			Drum 15Map	Knob 7		Drum 15 Pan			Drum 15Map	Knob 8		Drum 15 Level			Drum 15Map	Cliplaunch 1		Pad 15 Mute			Drum 15Map	Cliplaunch 2		Pad 15 Solo			Drum 15Map	Knob 1		Drum 16 Pitch Offset			Drum 16Map	Knob 2		Drum 16 Decay Offset			Drum 16Map	Knob 3		Drum 16 Bus FX Send			Drum 16Map	Knob 4		Drum 16 Aux 1 Send			Drum 16Map	Knob 5		Drum 16 Aux 2 Send			Drum 16Map	Knob 6		Drum 16 Tone			Drum 16Map	Knob 7		Drum 16 Pan			Drum 16Map	Knob 8		Drum 16 Level			Drum 16Map	Cliplaunch 1		Pad 16 Mute			Drum 16Map	Cliplaunch 2		Pad 16 Solo			Drum 16Scope	Propellerheads	MClass Equalizer//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 1		Low Shelf FrequencyMap	Knob 2		Low Shelf GainMap	Knob 3		Parametric 1 FrequencyMap	Knob 4		Parametric 1 GainMap	Knob 5		Parametric 2 FrequencyMap	Knob 6		Parametric 2 GainMap	Knob 7		Hi Shelf FrequencyMap	Knob 8		Hi Shelf GainMap	Cliplaunch 1		Parametric 1 EnableMap	Cliplaunch 2		Parametric 2 EnableScope	Propellerheads	MClass Stereo Imager//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 8		EnabledMap	Knob 1		Low WidthMap	Knob 2		X-Over FrequencyMap	Knob 3		High WidthMap	Knob 4		Solo ModeScope	Propellerheads	MClass Compressor//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 1		Input GainMap	Knob 2		ThresholdMap	Knob 3		RatioMap	Knob 4		AttackMap	Knob 5		ReleaseMap	Knob 6		Output GainMap	Knob 8		EnabledMap	Cliplaunch 1		Soft KneeMap	Cliplaunch 2		Sidechain SoloScope	Propellerheads	MClass Maximizer//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 1		Input GainMap	Knob 2		Attack SpeedMap	Knob 3		Release SpeedMap	Knob 4		Output GainMap	Knob 5		Soft Clip AmountMap	Knob 8		EnabledMap	Cliplaunch 1		Limiter EnableMap	Cliplaunch 2		Soft Clip EnableScope	Propellerheads	RV7000 Advanced Reverb//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		DecayMap	Knob 2		HF DampMap	Knob 3		Hi EQMap	Knob 4		Dry/WetMap	Knob 8		EnabledMap	Cliplaunch 1		EQ On/OffMap	Cliplaunch 2		Gate On/OffScope	Propellerheads	Scream 4 Distortion//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		Damage ControlMap	Knob 2		Damage TypeMap	Knob 3		Parameter 1Map	Knob 4		Parameter 2Map	Knob 5		Body ResonanceMap	Knob 6		Body ScaleMap	Knob 7		Body AutoMap	Knob 8		Body TypeMap	Cliplaunch 1		Cut On/OffMap	Cliplaunch 2		Body On/OffScope	Propellerheads	BV512 Digital VocoderDefine Group	Ch_Select	1-8	9-16	17-24	25-32//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 1		Band CountMap	Knob 2		AttackMap	Knob 3		DecayMap	Knob 4		ShiftMap	Knob 5		HF EmphasisMap	Knob 6		Dry/WetMap	Knob 8		EnabledMap	Cliplaunch 1		Vocoder/EqualizerMap	Cliplaunch 2		HoldScope	Propellerheads	RV-7 Digital Reverb//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 8		EnabledMap	Knob 1		SizeMap	Knob 2		DecayMap	Knob 3		DampingMap	Knob 4		Dry/WetMap	Knob 5		AlgorithmScope	Propellerheads	DDL-1 Digital Delay Line//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 8		EnabledMap	Knob 1		DelayTime (steps)Map	Knob 2		DelayTime (ms)Map	Knob 3		FeedbackMap	Knob 4		PanMap	Knob 5		Dry/Wet BalanceMap	Cliplaunch 1		UnitMap	Cliplaunch 2		Step LengthScope	Propellerheads	D-11 Foldback Distortion//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 8		EnabledMap	Knob 1		AmountMap	Knob 2		FoldbackScope	Propellerheads	ECF-42 Envelope Controlled Filter//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 1		FrequencyMap	Knob 2		ResonanceMap	Knob 3		Env AmountMap	Knob 4		VelocityMap	Knob 5		AttackMap	Knob 6		DecayMap	Knob 7		SustainMap	Knob 8		ReleaseScope	Propellerheads	CF-101 Chorus/Flanger//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 8		EnabledMap	Knob 1		DelayMap	Knob 2		FeedbackMap	Knob 3		RateMap	Knob 4		Modulation AmountMap	Cliplaunch 1		LFO Sync EnableMap	Cliplaunch 2		Send/Insert ModeScope	Propellerheads	PH-90 Phaser//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 8		EnabledMap	Knob 1		FrequencyMap	Knob 2		SplitMap	Knob 3		WidthMap	Knob 4		RateMap	Knob 5		Frequency ModulationMap	Knob 6		FeedbackMap	Cliplaunch 1		LFO Sync EnableScope	Propellerheads	UN-16 Unison//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 8		EnabledMap	Knob 1		DetuneMap	Knob 2		Dry/WetMap	Knob 3		Voice CountScope	Propellerheads	COMP-01 Compressor/Limiter//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 8		EnabledMap	Knob 1		RatioMap	Knob 2		ThresholdMap	Knob 3		AttackMap	Knob 4		ReleaseScope	Propellerheads	PEQ-2 Two Band Parametric EQ//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 1		Filter A FreqMap	Knob 2		Filter A QMap	Knob 3		Filter A GainMap	Knob 4		Filter B FreqMap	Knob 5		Filter B QMap	Knob 6		Filter B GainMap	Knob 8		EnabledMap	Cliplaunch 1		Filter B On/OffScope	Propellerheads	Matrix Pattern Sequencer//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 1		Pattern Select in BankMap	Knob 2		Bank SelectMap	Knob 3		ResolutionMap	Cliplaunch 1		Pattern EnableMap	Cliplaunch 2		RunScope	Propellerheads	RPG-8 Monophonic Arpeggiator//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Pad 1		Pattern Step 1Map	Pad 2		Pattern Step 2Map	Pad 3		Pattern Step 3Map	Pad 4		Pattern Step 4Map	Pad 5		Pattern Step 5Map	Pad 6		Pattern Step 6Map	Pad 7		Pattern Step 7Map	Pad 8		Pattern Step 8Map	Pad 9		Pattern Step 9Map	Pad 10		Pattern Step 10Map	Pad 11		Pattern Step 11Map	Pad 12		Pattern Step 12Map	Pad 13		Pattern Step 13Map	Pad 14		Pattern Step 14Map	Pad 15		Pattern Step 15Map	Pad 16		Pattern Step 16Map	Knob 1		Velocity/ManualMap	Knob 2		Octave ShiftMap	Knob 3		ModeMap	Knob 4		OctaveMap	Knob 5		InsertMap	Knob 6		RateMap	Knob 7		Gate LengthMap	Knob 8		Pattern Step CountMap	Cliplaunch 1		Arpeggiator EnableMap	Cliplaunch 2		HoldScope	Propellerheads	ID8 Instrument Device//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous CategoryMap	FORWARD		Select Next CategoryMap	Knob 1		Parameter 1Map	Knob 2		Parameter 2Map	Knob 3		VolumeMap	Cliplaunch 1		Select Previous SoundMap	Cliplaunch 2		Select Next SoundScope	Propellerheads	Line 6 Guitar Amp//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		Volume PedalMap	Knob 2		Wah PedalMap	Knob 3		DriveMap	Knob 4		BassMap	Knob 5		MiddleMap	Knob 6		TrebleMap	Knob 7		PresenceMap	Knob 8		VolumeMap	Cliplaunch 1		Wah Pedal OnScope	Propellerheads	Line 6 Bass Amp//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		Comp ThresholdMap	Knob 2		DriveMap	Knob 3		BassMap	Knob 4		Lo MidMap	Knob 5		Hi MidMap	Knob 6		TrebleMap	Knob 7		VolumeMap	Cliplaunch 1		Compressor OnScope	Propellerheads	Neptune Pitch Adjuster//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 1		Vibrato RateMap	Knob 2		SemitonesMap	Knob 3		CentMap	Knob 4		Formant ShiftMap	Knob 5		Correction SpeedMap	Knob 6		Preserve ExpressionMap	Knob 7		Pitched Signal LevelMap	Knob 8		Voice Synth LevelMap	Cliplaunch 1		Formant On/OffMap	Cliplaunch 2		Pitch Adjust On/OffScope	Propellerheads	The Echo//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		Input ModeMap	Knob 2		Ping-Pong PanMap	Knob 3		Right Ch Feedback OffsetMap	Knob 4		Drive TypeMap	Knob 5		EnvelopeMap	Knob 6		LFO RateMap	Knob 7		LFO AmountMap	Knob 8		Dry/Wet BalanceMap	Cliplaunch 1		Diffuse OnMap	Cliplaunch 2		Filter OnScope	Propellerheads	Mixer 14:2Define Group	Channels	Chan 1	Chan 2	Chan 3	Chan 4	Chan 5	Chan 6	Chan 7	Chan 8	Chan 9	Chan 10	Chan 11	Chan 12	Chan 13	Chan 14//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Pad 1		Channels=Chan 1Map	Pad 2		Channels=Chan 2Map	Pad 3		Channels=Chan 3Map	Pad 4		Channels=Chan 4Map	Pad 5		Channels=Chan 5Map	Pad 6		Channels=Chan 6Map	Pad 7		Channels=Chan 7Map	Pad 8		Channels=Chan 8Map	Pad 9		Channels=Chan 9Map	Pad 10		Channels=Chan 10Map	Pad 11		Channels=Chan 11Map	Pad 12		Channels=Chan 12Map	Pad 13		Channels=Chan 13Map	Pad 14		Channels=Chan 14Map	Knob 1		Channel 1 Level			Chan 1Map	Knob 2		Channel 1 Pan			Chan 1Map	Knob 3		Channel 1 Bass Amount			Chan 1Map	Knob 4		Channel 1 Treble Amount			Chan 1Map	Knob 5		Channel 1 Aux 1 Send			Chan 1Map	Knob 6		Channel 1 Aux 2 Send			Chan 1Map	Knob 7		Channel 1 Aux 3 Send			Chan 1Map	Knob 8		Channel 1 Aux 4 Send			Chan 1Map	Cliplaunch 1		Channel 1 Mute			Chan 1Map	Cliplaunch 2		Channel 1 Solo			Chan 1Map	Knob 1		Channel 2 Level			Chan 2Map	Knob 2		Channel 2 Pan			Chan 2Map	Knob 3		Channel 2 Bass Amount			Chan 2Map	Knob 4		Channel 2 Treble Amount			Chan 2Map	Knob 5		Channel 2 Aux 1 Send			Chan 2Map	Knob 6		Channel 2 Aux 2 Send			Chan 2Map	Knob 7		Channel 2 Aux 3 Send			Chan 2Map	Knob 8		Channel 2 Aux 4 Send			Chan 2Map	Cliplaunch 1		Channel 2 Mute			Chan 2Map	Cliplaunch 2		Channel 2 Solo			Chan 2Map	Knob 1		Channel 3 Level			Chan 3Map	Knob 2		Channel 3 Pan			Chan 3Map	Knob 3		Channel 3 Bass Amount			Chan 3Map	Knob 4		Channel 3 Treble Amount			Chan 3Map	Knob 5		Channel 3 Aux 1 Send			Chan 3Map	Knob 6		Channel 3 Aux 2 Send			Chan 3Map	Knob 7		Channel 3 Aux 3 Send			Chan 3Map	Knob 8		Channel 3 Aux 4 Send			Chan 3Map	Cliplaunch 1		Channel 3 Mute			Chan 3Map	Cliplaunch 2		Channel 3 Solo			Chan 3Map	Knob 1		Channel 4 Level			Chan 4Map	Knob 2		Channel 4 Pan			Chan 4Map	Knob 3		Channel 4 Bass Amount			Chan 4Map	Knob 4		Channel 4 Treble Amount			Chan 4Map	Knob 5		Channel 4 Aux 1 Send			Chan 4Map	Knob 6		Channel 4 Aux 2 Send			Chan 4Map	Knob 7		Channel 4 Aux 3 Send			Chan 4Map	Knob 8		Channel 4 Aux 4 Send			Chan 4Map	Cliplaunch 1		Channel 4 Mute			Chan 4Map	Cliplaunch 2		Channel 4 Solo			Chan 4Map	Knob 1		Channel 5 Level			Chan 5Map	Knob 2		Channel 5 Pan			Chan 5Map	Knob 3		Channel 5 Bass Amount			Chan 5Map	Knob 4		Channel 5 Treble Amount			Chan 5Map	Knob 5		Channel 5 Aux 1 Send			Chan 5Map	Knob 6		Channel 5 Aux 2 Send			Chan 5Map	Knob 7		Channel 5 Aux 3 Send			Chan 5Map	Knob 8		Channel 5 Aux 4 Send			Chan 5Map	Cliplaunch 1		Channel 5 Mute			Chan 5Map	Cliplaunch 2		Channel 5 Solo			Chan 5Map	Knob 1		Channel 6 Level			Chan 6Map	Knob 2		Channel 6 Pan			Chan 6Map	Knob 3		Channel 6 Bass Amount			Chan 6Map	Knob 4		Channel 6 Treble Amount			Chan 6Map	Knob 5		Channel 6 Aux 1 Send			Chan 6Map	Knob 6		Channel 6 Aux 2 Send			Chan 6Map	Knob 7		Channel 6 Aux 3 Send			Chan 6Map	Knob 8		Channel 6 Aux 4 Send			Chan 6Map	Cliplaunch 1		Channel 6 Mute			Chan 6Map	Cliplaunch 2		Channel 6 Solo			Chan 6Map	Knob 1		Channel 7 Level			Chan 7Map	Knob 2		Channel 7 Pan			Chan 7Map	Knob 3		Channel 7 Bass Amount			Chan 7Map	Knob 4		Channel 7 Treble Amount			Chan 7Map	Knob 5		Channel 7 Aux 1 Send			Chan 7Map	Knob 6		Channel 7 Aux 2 Send			Chan 7Map	Knob 7		Channel 7 Aux 3 Send			Chan 7Map	Knob 8		Channel 7 Aux 4 Send			Chan 7Map	Cliplaunch 1		Channel 7 Mute			Chan 7Map	Cliplaunch 2		Channel 7 Solo			Chan 7Map	Knob 1		Channel 8 Level			Chan 8Map	Knob 2		Channel 8 Pan			Chan 8Map	Knob 3		Channel 8 Bass Amount			Chan 8Map	Knob 4		Channel 8 Treble Amount			Chan 8Map	Knob 5		Channel 8 Aux 1 Send			Chan 8Map	Knob 6		Channel 8 Aux 2 Send			Chan 8Map	Knob 7		Channel 8 Aux 3 Send			Chan 8Map	Knob 8		Channel 8 Aux 4 Send			Chan 8Map	Cliplaunch 1		Channel 8 Mute			Chan 8Map	Cliplaunch 2		Channel 8 Solo			Chan 8Map	Knob 1		Channel 9 Level			Chan 9Map	Knob 2		Channel 9 Pan			Chan 9Map	Knob 3		Channel 9 Bass Amount			Chan 9Map	Knob 4		Channel 9 Treble Amount			Chan 9Map	Knob 5		Channel 9 Aux 1 Send			Chan 9Map	Knob 6		Channel 9 Aux 2 Send			Chan 9Map	Knob 7		Channel 9 Aux 3 Send			Chan 9Map	Knob 8		Channel 9 Aux 4 Send			Chan 9Map	Cliplaunch 1		Channel 9 Mute			Chan 9Map	Cliplaunch 2		Channel 9 Solo			Chan 9Map	Knob 1		Channel 10 Level			Chan 10Map	Knob 2		Channel 10 Pan			Chan 10Map	Knob 3		Channel 10 Bass Amount			Chan 10Map	Knob 4		Channel 10 Treble Amount			Chan 10Map	Knob 5		Channel 10 Aux 1 Send			Chan 10Map	Knob 6		Channel 10 Aux 2 Send			Chan 10Map	Knob 7		Channel 10 Aux 3 Send			Chan 10Map	Knob 8		Channel 10 Aux 4 Send			Chan 10Map	Cliplaunch 1		Channel 10 Mute			Chan 10Map	Cliplaunch 2		Channel 10 Solo			Chan 10Map	Knob 1		Channel 11 Level			Chan 11Map	Knob 2		Channel 11 Pan			Chan 11Map	Knob 3		Channel 11 Bass Amount			Chan 11Map	Knob 4		Channel 11 Treble Amount			Chan 11Map	Knob 5		Channel 11 Aux 1 Send			Chan 11Map	Knob 6		Channel 11 Aux 2 Send			Chan 11Map	Knob 7		Channel 11 Aux 3 Send			Chan 11Map	Knob 8		Channel 11 Aux 4 Send			Chan 11Map	Cliplaunch 1		Channel 11 Mute			Chan 11Map	Cliplaunch 2		Channel 11 Solo			Chan 11Map	Knob 1		Channel 12 Level			Chan 12Map	Knob 2		Channel 12 Pan			Chan 12Map	Knob 3		Channel 12 Bass Amount			Chan 12Map	Knob 4		Channel 12 Treble Amount			Chan 12Map	Knob 5		Channel 12 Aux 1 Send			Chan 12Map	Knob 6		Channel 12 Aux 2 Send			Chan 12Map	Knob 7		Channel 12 Aux 3 Send			Chan 12Map	Knob 8		Channel 12 Aux 4 Send			Chan 12Map	Cliplaunch 1		Channel 12 Mute			Chan 12Map	Cliplaunch 2		Channel 12 Solo			Chan 12Map	Knob 1		Channel 13 Level			Chan 13Map	Knob 2		Channel 13 Pan			Chan 13Map	Knob 3		Channel 13 Bass Amount			Chan 13Map	Knob 4		Channel 13 Treble Amount			Chan 13Map	Knob 5		Channel 13 Aux 1 Send			Chan 13Map	Knob 6		Channel 13 Aux 2 Send			Chan 13Map	Knob 7		Channel 13 Aux 3 Send			Chan 13Map	Knob 8		Channel 13 Aux 4 Send			Chan 13Map	Cliplaunch 1		Channel 13 Mute			Chan 13Map	Cliplaunch 2		Channel 13 Solo			Chan 13Map	Knob 1		Channel 14 Level			Chan 14Map	Knob 2		Channel 14 Pan			Chan 14Map	Knob 3		Channel 14 Bass Amount			Chan 14Map	Knob 4		Channel 14 Treble Amount			Chan 14Map	Knob 5		Channel 14 Aux 1 Send			Chan 14Map	Knob 6		Channel 14 Aux 2 Send			Chan 14Map	Knob 7		Channel 14 Aux 3 Send			Chan 14Map	Knob 8		Channel 14 Aux 4 Send			Chan 14Map	Cliplaunch 1		Channel 14 Mute			Chan 14Map	Cliplaunch 2		Channel 14 Solo			Chan 14Scope	Propellerheads	Line Mixer 6:2//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 8		Aux Return LevelMap	Knob 1		Channel 1 LevelMap	Knob 2		Channel 2 LevelMap	Knob 3		Channel 3 LevelMap	Knob 4		Channel 4 LevelMap	Knob 5		Channel 5 LevelMap	Knob 6		Channel 6 LevelScope	Propellerheads	Record Master SectionDefine Group	Channel	Chan 1	Chan 2	Chan 3	Chan 4	Chan 5	Chan 6	Chan 7	Chan 8//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Pad 1		Channel=Chan 1Map	Pad 2		Channel=Chan 2Map	Pad 3		Channel=Chan 3Map	Pad 4		Channel=Chan 4Map	Pad 5		Channel=Chan 5Map	Pad 6		Channel=Chan 6Map	Pad 7		Channel=Chan 7Map	Pad 8		Channel=Chan 8Map	REWIND		Previous 8 Remote Base ChannelMap	FORWARD		Next 8 Remote Base ChannelMap	Knob 1		Channel 1 Level			Chan 1Map	Knob 2		Channel 1 C Threshold			Chan 1Map	Knob 3		Channel 1 C Release			Chan 1Map	Knob 4		Channel 1 G Threshold			Chan 1Map	Knob 5		Channel 1 G Release			Chan 1Map	Knob 6		Channel 1 LPF Frequency			Chan 1Map	Knob 7		Channel 1 HPF Frequency			Chan 1Map	Knob 8		Channel 1 PanMap	Cliplaunch 1		Channel 1 Mute			Chan 1Map	Cliplaunch 2		Channel 1 SoloMap	Knob 1		Channel 2 Level			Chan 2Map	Knob 2		Channel 2 C Threshold			Chan 2Map	Knob 3		Channel 2 C Release			Chan 2Map	Knob 4		Channel 2 G Threshold			Chan 2Map	Knob 5		Channel 2 G Release			Chan 2Map	Knob 6		Channel 2 LPF Frequency			Chan 2Map	Knob 7		Channel 2 HPF Frequency			Chan 2Map	Knob 8		Channel 2 Pan			Chan 2Map	Cliplaunch 1		Channel 2 Mute			Chan 2Map	Cliplaunch 2		Channel 2 Solo			Chan 2Map	Knob 1		Channel 3 Level			Chan 3Map	Knob 2		Channel 3 C Threshold			Chan 3Map	Knob 3		Channel 3 C Release			Chan 3Map	Knob 4		Channel 3 G Threshold			Chan 3Map	Knob 5		Channel 3 G Release			Chan 3Map	Knob 6		Channel 3 LPF Frequency			Chan 3Map	Knob 7		Channel 3 HPF Frequency			Chan 3Map	Knob 8		Channel 3 Pan			Chan 3Map	Cliplaunch 1		Channel 3 Mute			Chan 3Map	Cliplaunch 2		Channel 3 Solo			Chan 3Map	Knob 1		Channel 4 Level			Chan 4Map	Knob 2		Channel 4 C Threshold			Chan 4Map	Knob 3		Channel 4 C Release			Chan 4Map	Knob 4		Channel 4 G Threshold			Chan 4Map	Knob 5		Channel 4 G Release			Chan 4Map	Knob 6		Channel 4 LPF Frequency			Chan 4Map	Knob 7		Channel 4 HPF Frequency			Chan 4Map	Knob 8		Channel 4 Pan			Chan 4Map	Cliplaunch 1		Channel 4 Mute			Chan 4Map	Cliplaunch 2		Channel 4 Solo			Chan 4Map	Knob 1		Channel 5 Level			Chan 5Map	Knob 2		Channel 5 C Threshold			Chan 5Map	Knob 3		Channel 5 C Release			Chan 5Map	Knob 4		Channel 5 G Threshold			Chan 5Map	Knob 5		Channel 5 G Release			Chan 5Map	Knob 6		Channel 5 LPF Frequency			Chan 5Map	Knob 7		Channel 5 HPF Frequency			Chan 5Map	Knob 8		Channel 5 Pan			Chan 5Map	Cliplaunch 1		Channel 5 Mute			Chan 5Map	Cliplaunch 2		Channel 5 Solo			Chan 5Map	Knob 1		Channel 6 Level			Chan 6Map	Knob 2		Channel 6 C Threshold			Chan 6Map	Knob 3		Channel 6 C Release			Chan 6Map	Knob 4		Channel 6 G Threshold			Chan 6Map	Knob 5		Channel 6 G Release			Chan 6Map	Knob 6		Channel 6 LPF Frequency			Chan 6Map	Knob 7		Channel 6 HPF Frequency			Chan 6Map	Knob 8		Channel 6 Pan			Chan 6Map	Cliplaunch 1		Channel 6 Mute			Chan 6Map	Cliplaunch 2		Channel 6 Solo			Chan 6Map	Knob 1		Channel 7 Level			Chan 7Map	Knob 2		Channel 7 C Threshold			Chan 7Map	Knob 3		Channel 7 C Release			Chan 7Map	Knob 4		Channel 7 G Threshold			Chan 7Map	Knob 5		Channel 7 G Release			Chan 7Map	Knob 6		Channel 7 LPF Frequency			Chan 7Map	Knob 7		Channel 7 HPF Frequency			Chan 7Map	Knob 8		Channel 7 Pan			Chan 7Map	Cliplaunch 1		Channel 7 Mute			Chan 7Map	Cliplaunch 2		Channel 7 Solo			Chan 7Map	Knob 1		Channel 8 Level			Chan 8Map	Knob 2		Channel 8 C Threshold			Chan 8Map	Knob 3		Channel 8 C Release			Chan 8Map	Knob 4		Channel 8 G Threshold			Chan 8Map	Knob 5		Channel 8 G Release			Chan 8Map	Knob 6		Channel 8 LPF Frequency			Chan 8Map	Knob 7		Channel 8 HPF Frequency			Chan 8Map	Knob 8		Channel 8 Pan			Chan 8Map	Cliplaunch 1		Channel 8 Mute			Chan 8Map	Cliplaunch 2		Channel 8 Solo			Chan 8Scope	Propellerheads	Reason Master SectionDefine Group	Channel	Chan 1	Chan 2	Chan 3	Chan 4	Chan 5	Chan 6	Chan 7	Chan 8//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Pad 1		Channel=Chan 1Map	Pad 2		Channel=Chan 2Map	Pad 3		Channel=Chan 3Map	Pad 4		Channel=Chan 4Map	Pad 5		Channel=Chan 5Map	Pad 6		Channel=Chan 6Map	Pad 7		Channel=Chan 7Map	Pad 8		Channel=Chan 8Map	REWIND		Previous 8 Remote Base ChannelMap	FORWARD		Next 8 Remote Base ChannelMap	Knob 1		Channel 1 Level			Chan 1Map	Knob 2		Channel 1 C Threshold			Chan 1Map	Knob 3		Channel 1 C Release			Chan 1Map	Knob 4		Channel 1 G Threshold			Chan 1Map	Knob 5		Channel 1 G Release			Chan 1Map	Knob 6		Channel 1 LPF Frequency			Chan 1Map	Knob 7		Channel 1 HPF Frequency			Chan 1Map	Knob 8		Channel 1 Pan			Chan 1Map	Cliplaunch 1		Channel 1 Mute			Chan 1Map	Cliplaunch 2		Channel 1 Solo			Chan 1Map	Knob 1		Channel 2 Level			Chan 2Map	Knob 2		Channel 2 C Threshold			Chan 2Map	Knob 3		Channel 2 C Release			Chan 2Map	Knob 4		Channel 2 G Threshold			Chan 2Map	Knob 5		Channel 2 G Release			Chan 2Map	Knob 6		Channel 2 LPF Frequency			Chan 2Map	Knob 7		Channel 2 HPF Frequency			Chan 2Map	Knob 8		Channel 2 Pan			Chan 2Map	Cliplaunch 1		Channel 2 Mute			Chan 2Map	Cliplaunch 2		Channel 2 Solo			Chan 2Map	Knob 1		Channel 3 Level			Chan 3Map	Knob 2		Channel 3 C Threshold			Chan 3Map	Knob 3		Channel 3 C Release			Chan 3Map	Knob 4		Channel 3 G Threshold			Chan 3Map	Knob 5		Channel 3 G Release			Chan 3Map	Knob 6		Channel 3 LPF Frequency			Chan 3Map	Knob 7		Channel 3 HPF Frequency			Chan 3Map	Knob 8		Channel 3 Pan			Chan 3Map	Cliplaunch 1		Channel 3 Mute			Chan 3Map	Cliplaunch 2		Channel 3 Solo			Chan 3Map	Knob 1		Channel 4 Level			Chan 4Map	Knob 2		Channel 4 C Threshold			Chan 4Map	Knob 3		Channel 4 C Release			Chan 4Map	Knob 4		Channel 4 G Threshold			Chan 4Map	Knob 5		Channel 4 G Release			Chan 4Map	Knob 6		Channel 4 LPF Frequency			Chan 4Map	Knob 7		Channel 4 HPF Frequency			Chan 4Map	Knob 8		Channel 4 Pan			Chan 4Map	Cliplaunch 1		Channel 4 Mute			Chan 4Map	Cliplaunch 2		Channel 4 Solo			Chan 4Map	Knob 1		Channel 5 Level			Chan 5Map	Knob 2		Channel 5 C Threshold			Chan 5Map	Knob 3		Channel 5 C Release			Chan 5Map	Knob 4		Channel 5 G Threshold			Chan 5Map	Knob 5		Channel 5 G Release			Chan 5Map	Knob 6		Channel 5 LPF Frequency			Chan 5Map	Knob 7		Channel 5 HPF Frequency			Chan 5Map	Knob 8		Channel 5 Pan			Chan 5Map	Cliplaunch 1		Channel 5 Mute			Chan 5Map	Cliplaunch 2		Channel 5 Solo			Chan 5Map	Knob 1		Channel 6 Level			Chan 6Map	Knob 2		Channel 6 C Threshold			Chan 6Map	Knob 3		Channel 6 C Release			Chan 6Map	Knob 4		Channel 6 G Threshold			Chan 6Map	Knob 5		Channel 6 G Release			Chan 6Map	Knob 6		Channel 6 LPF Frequency			Chan 6Map	Knob 7		Channel 6 HPF Frequency			Chan 6Map	Knob 8		Channel 6 Pan			Chan 6Map	Cliplaunch 1		Channel 6 Mute			Chan 6Map	Cliplaunch 2		Channel 6 Solo			Chan 6Map	Knob 1		Channel 7 Level			Chan 7Map	Knob 2		Channel 7 C Threshold			Chan 7Map	Knob 3		Channel 7 C Release			Chan 7Map	Knob 4		Channel 7 G Threshold			Chan 7Map	Knob 5		Channel 7 G Release			Chan 7Map	Knob 6		Channel 7 LPF Frequency			Chan 7Map	Knob 7		Channel 7 HPF Frequency			Chan 7Map	Knob 8		Channel 7 Pan			Chan 7Map	Cliplaunch 1		Channel 7 Mute			Chan 7Map	Cliplaunch 2		Channel 7 Solo			Chan 7Map	Knob 1		Channel 8 Level			Chan 8Map	Knob 2		Channel 8 C Threshold			Chan 8Map	Knob 3		Channel 8 C Release			Chan 8Map	Knob 4		Channel 8 G Threshold			Chan 8Map	Knob 5		Channel 8 G Release			Chan 8Map	Knob 6		Channel 8 LPF Frequency			Chan 8Map	Knob 7		Channel 8 HPF Frequency			Chan 8Map	Knob 8		Channel 8 Pan			Chan 8Map	Cliplaunch 1		Channel 8 Mute			Chan 8Map	Cliplaunch 2		Channel 8 Solo			Chan 8Scope	Propellerheads	Record Main Mixer Channel//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 1		C RatioMap	Knob 2		C ThresholdMap	Knob 3		C ReleaseMap	Knob 4		G ThresholdMap	Knob 5		G ReleaseMap	Knob 6		LPF FrequencyMap	Knob 7		HPF FrequencyMap	Knob 8		PanMap	Cliplaunch 1		MuteMap	Cliplaunch 2		SoloScope	Propellerheads	Reason Main Mixer Channel//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 1		C RatioMap	Knob 2		C ThresholdMap	Knob 3		C ReleaseMap	Knob 4		G ThresholdMap	Knob 5		G ReleaseMap	Knob 6		LPF FrequencyMap	Knob 7		HPF FrequencyMap	Knob 8		PanMap	Cliplaunch 1		MuteMap	Cliplaunch 2		SoloScope	Propellerheads	Reason Document//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Track Up		Target Next TrackMap	Track Down		Target Previous TrackScope	Propellerheads	Record Document//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Track Up		Target Previous TrackMap	Track Down		Target Next TrackScope	Propellerheads	Alligator//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		PatternMap	Knob 2		High Pass ResonanceMap	Knob 3		Band Pass ResonanceMap	Knob 4		Low Pass ResonanceMap	Knob 5		High Pass PanMap	Knob 6		Band Pass PanMap	Knob 7		Low Pass PanMap	Knob 8		Dry PanMap	Cliplaunch 1		Pattern EnableMap	Cliplaunch 2		ShuffleScope	Propellerheads	Pulveriser//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		ReleaseMap	Knob 2		ToneMap	Knob 3		Filter ModeMap	Knob 4		Tremor to FrequencyMap	Knob 5		Follower to RateMap	Knob 6		Follower to FrequencyMap	Knob 7		Tremor WaveformMap	Knob 8		BlendMap	Cliplaunch 1		SyncMap	Cliplaunch 2		Tremor SpreadScope	Propellerheads	ReGroove Mixer//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	Knob 1		A1 ShuffleMap	Knob 2		A2 ShuffleMap	Knob 3		A3 ShuffleMap	Knob 4		A4 ShuffleMap	Knob 5		A5 ShuffleMap	Knob 6		A6 ShuffleMap	Knob 7		A7 ShuffleMap	Knob 8		A8 ShuffleScope	Propellerhead Software	se.propellerheads.Monotone//	Control Surface Item	Key	Remotable Item	Scale	ModeMap	REWIND		Select Previous PatchMap	FORWARD		Select Next PatchMap	Knob 1		Filter FreqMap	Knob 2		Filter ResoMap	Knob 3		Filter Env AmountMap	Knob 4		Filter DriveMap	Knob 5		Osc MixMap	Knob 6		Osc DetuneMap	Knob 7		LFO RateMap	Knob 8		Mod Wheel
+Propellerhead Remote Mapping File
+
+File Format Version	1.0.0
+Control Surface Manufacturer	Novation
+Control Surface Model	Launchkey Mini InControl
+Map Version	1.4.3
+
+
+
+Scope	Propellerheads	Combinator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Rotary 1
+Map	Knob 2		Rotary 2
+Map	Knob 3		Rotary 3
+Map	Knob 4		Rotary 4
+Map	Knob 5		Button 1
+Map	Knob 6		Button 2
+Map	Knob 7		Button 3
+Map	Knob 8		Button 4
+
+Map	Cliplaunch 1		Run Pattern Devices
+Map	Cliplaunch 2		Bypass All FX
+
+
+Scope	Propellerheads	SubTractor Analog Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Filter Freq
+Map	Knob 2		Filter Res
+Map	Knob 3		Filter Env Amount
+Map	Knob 4		LFO1 Rate
+Map	Knob 5		LFO1 Amount
+Map	Knob 6		LFO2 Rate
+Map	Knob 7		LFO2 Amount
+Map	Knob 8		Mod Env Gain
+
+Map	Cliplaunch 1		Osc2 On/Off
+Map	Cliplaunch 2		Filter2 On/Off
+
+
+Scope	Propellerheads	Thor Polysonic Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Pad 1		Pattern Step Gate 1
+Map	Pad 2		Pattern Step Gate 2
+Map	Pad 3		Pattern Step Gate 3
+Map	Pad 4		Pattern Step Gate 4
+Map	Pad 5		Pattern Step Gate 5
+Map	Pad 6		Pattern Step Gate 6
+Map	Pad 7		Pattern Step Gate 7
+Map	Pad 8		Pattern Step Gate 8
+Map	Pad 9		Pattern Step Gate 9
+Map	Pad 10		Pattern Step Gate 10
+Map	Pad 11		Pattern Step Gate 11
+Map	Pad 12		Pattern Step Gate 12
+Map	Pad 13		Pattern Step Gate 13
+Map	Pad 14		Pattern Step Gate 14
+Map	Pad 15		Pattern Step Gate 15
+Map	Pad 16		Pattern Step Gate 16
+
+Map	Knob 1		Filter 3 Freq
+Map	Knob 2		Filter 3 Res
+Map	Knob 3		LFO 1 Rate
+Map	Knob 4		LFO 2 Rate
+Map	Knob 5		Delay Time
+Map	Knob 6		Delay Dry Wet
+Map	Knob 7		Rotary 1
+Map	Knob 8		Rotary 2
+
+Map	Cliplaunch 1		Button 1
+Map	Cliplaunch 2		Button 2
+
+
+Scope	Propellerheads	Malstrom Graintable Synthesizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Filter A Freq
+Map	Knob 2		Filter A Resonance
+Map	Knob 3		Filter B Freq
+Map	Knob 4		Filter B Resonance
+Map	Knob 5		Modulator A Rate
+Map	Knob 6		Modulator B Rate
+Map	Knob 7		Filter Env Amount
+Map	Knob 8		Shaper Amount
+
+Map	Cliplaunch 1		Modulator A On/Off
+Map	Cliplaunch 2		Modulator B On/Off
+
+
+Scope	Propellerheads	NN19 Digital Sampler
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Filter Freq
+Map	Knob 2		Filter Res
+Map	Knob 3		Filter Freq Mod Wheel Amount
+Map	Knob 4		Filter Res Mod Wheel Amount
+Map	Knob 5		Filter Decay Mod Wheel Amount
+Map	Knob 6		LFO Mod Wheel Amount
+Map	Knob 7		LFO Rate
+Map	Knob 8		LFO Amount
+
+Map	Cliplaunch 1		Filter On/Off
+Map	Cliplaunch 2		Filter Env Invert
+
+
+Scope	Propellerheads	NN-XT Advanced Sampler
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		External Controller
+Map	Knob 2		Filter Freq
+Map	Knob 3		Filter Res
+Map	Knob 4		Amp Env Attack
+Map	Knob 5		Amp Env Decay
+Map	Knob 6		Amp Env Release
+Map	Knob 7		Mod Env Decay
+Map	Knob 8		Master Volume
+
+Map	Cliplaunch 1		High Quality Interpolation
+
+
+Scope	Propellerheads	Dr.REX Loop Player
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Pad 1		Select Loop 1
+Map	Pad 2		Select Loop 2
+Map	Pad 3		Select Loop 3
+Map	Pad 4		Select Loop 4
+Map	Pad 9		Select Loop 5
+Map	Pad 10		Select Loop 6
+Map	Pad 11		Select Loop 7
+Map	Pad 12		Select Loop 8
+
+Map	Knob 1		Filter Freq
+Map	Knob 2		Filter Res
+Map	Knob 3		Filter Env Amount
+Map	Knob 4		LFO1 Rate
+Map	Knob 5		LFO1 Amount
+Map	Knob 6		Osc Env Amount
+Map	Knob 7		Osc Octave
+Map	Knob 8		Osc Fine Tune
+
+Map	Cliplaunch 1		Run
+Map	Cliplaunch 2		Filter On/Off
+
+
+Scope	Propellerheads	Redrum Drum Computer
+Define Group	Drum_vars	Drum 1	Drum 2	Drum 3	Drum 4	Drum 5	Drum 6	Drum 7	Drum 8
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Pad 1		Drum_vars=Drum 1
+Map	Pad 2		Drum_vars=Drum 2
+Map	Pad 3		Drum_vars=Drum 3
+Map	Pad 4		Drum_vars=Drum 4
+Map	Pad 5		Drum_vars=Drum 5
+Map	Pad 6		Drum_vars=Drum 6
+Map	Pad 7		Drum_vars=Drum 7
+Map	Pad 8		Drum_vars=Drum 8
+
+Map	Pad 9		Channel 1 Play
+Map	Pad 10		Channel 2 Play
+Map	Pad 11		Channel 3 Play
+Map	Pad 12		Channel 4 Play
+Map	Pad 13		Channel 5 Play
+Map	Pad 14		Channel 6 Play
+Map	Pad 15		Channel 7 Play
+Map	Pad 16		Channel 8 Play
+
+Map	Knob 1		Drum 1 Pan			Drum 1
+Map	Knob 2		Drum 1 Send 1 Amount			Drum 1
+Map	Knob 3		Drum 1 Send 2 Amount			Drum 1
+Map	Knob 4		Drum 1 Pitch			Drum 1
+Map	Knob 5		Drum 1 Length			Drum 1
+Map	Knob 6		Drum 1 Level			Drum 1
+
+Map	Knob 1		Drum 2 Pan			Drum 2
+Map	Knob 2		Drum 2 Send 1 Amount			Drum 2
+Map	Knob 3		Drum 2 Send 2 Amount			Drum 2
+Map	Knob 4		Drum 2 Pitch			Drum 2
+Map	Knob 5		Drum 2 Length			Drum 2
+Map	Knob 6		Drum 2 Level			Drum 2
+
+Map	Knob 1		Drum 3 Pan			Drum 3
+Map	Knob 2		Drum 3 Send 1 Amount			Drum 3
+Map	Knob 3		Drum 3 Send 2 Amount			Drum 3
+Map	Knob 4		Drum 3 Pitch			Drum 3
+Map	Knob 5		Drum 3 Length			Drum 3
+Map	Knob 6		Drum 3 Level			Drum 3
+
+Map	Knob 1		Drum 4 Pan			Drum 4
+Map	Knob 2		Drum 4 Send 1 Amount			Drum 4
+Map	Knob 3		Drum 4 Send 2 Amount			Drum 4
+Map	Knob 4		Drum 4 Pitch			Drum 4
+Map	Knob 5		Drum 4 Length			Drum 4
+Map	Knob 6		Drum 4 Level			Drum 4
+
+Map	Knob 1		Drum 5 Pan			Drum 5
+Map	Knob 2		Drum 5 Send 1 Amount			Drum 5
+Map	Knob 3		Drum 5 Send 2 Amount			Drum 5
+Map	Knob 4		Drum 5 Pitch			Drum 5
+Map	Knob 5		Drum 5 Length			Drum 5
+Map	Knob 6		Drum 5 Level			Drum 5
+
+Map	Knob 1		Drum 6 Pan			Drum 6
+Map	Knob 2		Drum 6 Send 1 Amount			Drum 6
+Map	Knob 3		Drum 6 Send 2 Amount			Drum 6
+Map	Knob 4		Drum 6 Pitch			Drum 6
+Map	Knob 5		Drum 6 Length			Drum 6
+Map	Knob 6		Drum 6 Level			Drum 6
+
+Map	Knob 1		Drum 7 Pan			Drum 7
+Map	Knob 2		Drum 7 Send 1 Amount			Drum 7
+Map	Knob 3		Drum 7 Send 2 Amount			Drum 7
+Map	Knob 4		Drum 7 Pitch			Drum 7
+Map	Knob 5		Drum 7 Length			Drum 7
+Map	Knob 6		Drum 7 Level			Drum 7
+
+Map	Knob 1		Drum 8 Pan			Drum 8
+Map	Knob 2		Drum 8 Send 1 Amount			Drum 8
+Map	Knob 3		Drum 8 Send 2 Amount			Drum 8
+Map	Knob 4		Drum 8 Pitch			Drum 8
+Map	Knob 5		Drum 8 Length			Drum 8
+Map	Knob 6		Drum 8 Level			Drum 8
+
+Map	Knob 7		Pattern Select in Bank
+Map	Knob 8		Bank Select
+
+Map	Cliplaunch 1		Run
+Map	Cliplaunch 2		Pattern Enable
+
+
+Scope	Propellerheads	Kong Drum Designer
+Define Group	Drum_vars	Drum 1	Drum 2	Drum 3	Drum 4	Drum 5	Drum 6	Drum 7	Drum 8	Drum 9	Drum 10	Drum 11	Drum 12	Drum 13	Drum 14	Drum 15	Drum 16
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Pad 1		Drum_vars=Drum 5
+Map	Pad 2		Drum_vars=Drum 6
+Map	Pad 3		Drum_vars=Drum 7
+Map	Pad 4		Drum_vars=Drum 8
+Map	Pad 5		Drum_vars=Drum 13
+Map	Pad 6		Drum_vars=Drum 14
+Map	Pad 7		Drum_vars=Drum 15
+Map	Pad 8		Drum_vars=Drum 16
+Map	Pad 9		Drum_vars=Drum 1
+Map	Pad 10		Drum_vars=Drum 2
+Map	Pad 11		Drum_vars=Drum 3
+Map	Pad 12		Drum_vars=Drum 4
+Map	Pad 13		Drum_vars=Drum 9
+Map	Pad 14		Drum_vars=Drum 10
+Map	Pad 15		Drum_vars=Drum 11
+Map	Pad 16		Drum_vars=Drum 12
+
+Map	Knob 1		Drum 1 Pitch Offset			Drum 1
+Map	Knob 2		Drum 1 Decay Offset			Drum 1
+Map	Knob 3		Drum 1 Bus FX Send			Drum 1
+Map	Knob 4		Drum 1 Aux 1 Send			Drum 1
+Map	Knob 5		Drum 1 Aux 2 Send			Drum 1
+Map	Knob 6		Drum 1 Tone			Drum 1
+Map	Knob 7		Drum 1 Pan			Drum 1
+Map	Knob 8		Drum 1 Level			Drum 1
+
+Map	Cliplaunch 1		Pad 1 Mute			Drum 1
+Map	Cliplaunch 2		Pad 1 Solo			Drum 1
+
+Map	Knob 1		Drum 2 Pitch Offset			Drum 2
+Map	Knob 2		Drum 2 Decay Offset			Drum 2
+Map	Knob 3		Drum 2 Bus FX Send			Drum 2
+Map	Knob 4		Drum 2 Aux 1 Send			Drum 2
+Map	Knob 5		Drum 2 Aux 2 Send			Drum 2
+Map	Knob 6		Drum 2 Tone			Drum 2
+Map	Knob 7		Drum 2 Pan			Drum 2
+Map	Knob 8		Drum 2 Level			Drum 2
+
+Map	Cliplaunch 1		Pad 2 Mute			Drum 2
+Map	Cliplaunch 2		Pad 2 Solo			Drum 2
+
+Map	Knob 1		Drum 3 Pitch Offset			Drum 3
+Map	Knob 2		Drum 3 Decay Offset			Drum 3
+Map	Knob 3		Drum 3 Bus FX Send			Drum 3
+Map	Knob 4		Drum 3 Aux 1 Send			Drum 3
+Map	Knob 5		Drum 3 Aux 2 Send			Drum 3
+Map	Knob 6		Drum 3 Tone			Drum 3
+Map	Knob 7		Drum 3 Pan			Drum 3
+Map	Knob 8		Drum 3 Level			Drum 3
+
+Map	Cliplaunch 1		Pad 3 Mute			Drum 3
+Map	Cliplaunch 2		Pad 3 Solo			Drum 3
+
+Map	Knob 1		Drum 4 Pitch Offset			Drum 4
+Map	Knob 2		Drum 4 Decay Offset			Drum 4
+Map	Knob 3		Drum 4 Bus FX Send			Drum 4
+Map	Knob 4		Drum 4 Aux 1 Send			Drum 4
+Map	Knob 5		Drum 4 Aux 2 Send			Drum 4
+Map	Knob 6		Drum 4 Tone			Drum 4
+Map	Knob 7		Drum 4 Pan			Drum 4
+Map	Knob 8		Drum 4 Level			Drum 4
+
+Map	Cliplaunch 1		Pad 4 Mute			Drum 4
+Map	Cliplaunch 2		Pad 4 Solo			Drum 4
+
+Map	Knob 1		Drum 5 Pitch Offset			Drum 5
+Map	Knob 2		Drum 5 Decay Offset			Drum 5
+Map	Knob 3		Drum 5 Bus FX Send			Drum 5
+Map	Knob 4		Drum 5 Aux 1 Send			Drum 5
+Map	Knob 5		Drum 5 Aux 2 Send			Drum 5
+Map	Knob 6		Drum 5 Tone			Drum 5
+Map	Knob 7		Drum 5 Pan			Drum 5
+Map	Knob 8		Drum 5 Level			Drum 5
+
+Map	Cliplaunch 1		Pad 5 Mute			Drum 5
+Map	Cliplaunch 2		Pad 5 Solo			Drum 5
+
+Map	Knob 1		Drum 6 Pitch Offset			Drum 6
+Map	Knob 2		Drum 6 Decay Offset			Drum 6
+Map	Knob 3		Drum 6 Bus FX Send			Drum 6
+Map	Knob 4		Drum 6 Aux 1 Send			Drum 6
+Map	Knob 5		Drum 6 Aux 2 Send			Drum 6
+Map	Knob 6		Drum 6 Tone			Drum 6
+Map	Knob 7		Drum 6 Pan			Drum 6
+Map	Knob 8		Drum 6 Level			Drum 6
+
+Map	Cliplaunch 1		Pad 6 Mute			Drum 6
+Map	Cliplaunch 2		Pad 6 Solo			Drum 6
+
+Map	Knob 1		Drum 7 Pitch Offset			Drum 7
+Map	Knob 2		Drum 7 Decay Offset			Drum 7
+Map	Knob 3		Drum 7 Bus FX Send			Drum 7
+Map	Knob 4		Drum 7 Aux 1 Send			Drum 7
+Map	Knob 5		Drum 7 Aux 2 Send			Drum 7
+Map	Knob 6		Drum 7 Tone			Drum 7
+Map	Knob 7		Drum 7 Pan			Drum 7
+Map	Knob 8		Drum 7 Level			Drum 7
+
+Map	Cliplaunch 1		Pad 7 Mute			Drum 7
+Map	Cliplaunch 2		Pad 7 Solo			Drum 7
+
+Map	Knob 1		Drum 8 Pitch Offset			Drum 8
+Map	Knob 2		Drum 8 Decay Offset			Drum 8
+Map	Knob 3		Drum 8 Bus FX Send			Drum 8
+Map	Knob 4		Drum 8 Aux 1 Send			Drum 8
+Map	Knob 5		Drum 8 Aux 2 Send			Drum 8
+Map	Knob 6		Drum 8 Tone			Drum 8
+Map	Knob 7		Drum 8 Pan			Drum 8
+Map	Knob 8		Drum 8 Level			Drum 8
+
+Map	Cliplaunch 1		Pad 8 Mute			Drum 8
+Map	Cliplaunch 2		Pad 8 Solo			Drum 8
+
+Map	Knob 1		Drum 9 Pitch Offset			Drum 9
+Map	Knob 2		Drum 9 Decay Offset			Drum 9
+Map	Knob 3		Drum 9 Bus FX Send			Drum 9
+Map	Knob 4		Drum 9 Aux 1 Send			Drum 9
+Map	Knob 5		Drum 9 Aux 2 Send			Drum 9
+Map	Knob 6		Drum 9 Tone			Drum 9
+Map	Knob 7		Drum 9 Pan			Drum 9
+Map	Knob 8		Drum 9 Level			Drum 9
+
+Map	Cliplaunch 1		Pad 9 Mute			Drum 9
+Map	Cliplaunch 2		Pad 9 Solo			Drum 9
+
+Map	Knob 1		Drum 10 Pitch Offset			Drum 10
+Map	Knob 2		Drum 10 Decay Offset			Drum 10
+Map	Knob 3		Drum 10 Bus FX Send			Drum 10
+Map	Knob 4		Drum 10 Aux 1 Send			Drum 10
+Map	Knob 5		Drum 10 Aux 2 Send			Drum 10
+Map	Knob 6		Drum 10 Tone			Drum 10
+Map	Knob 7		Drum 10 Pan			Drum 10
+Map	Knob 8		Drum 10 Level			Drum 10
+
+Map	Cliplaunch 1		Pad 10 Mute			Drum 10
+Map	Cliplaunch 2		Pad 10 Solo			Drum 10
+
+Map	Knob 1		Drum 11 Pitch Offset			Drum 11
+Map	Knob 2		Drum 11 Decay Offset			Drum 11
+Map	Knob 3		Drum 11 Bus FX Send			Drum 11
+Map	Knob 4		Drum 11 Aux 1 Send			Drum 11
+Map	Knob 5		Drum 11 Aux 2 Send			Drum 11
+Map	Knob 6		Drum 11 Tone			Drum 11
+Map	Knob 7		Drum 11 Pan			Drum 11
+Map	Knob 8		Drum 11 Level			Drum 11
+
+Map	Cliplaunch 1		Pad 11 Mute			Drum 11
+Map	Cliplaunch 2		Pad 11 Solo			Drum 11
+
+Map	Knob 1		Drum 12 Pitch Offset			Drum 12
+Map	Knob 2		Drum 12 Decay Offset			Drum 12
+Map	Knob 3		Drum 12 Bus FX Send			Drum 12
+Map	Knob 4		Drum 12 Aux 1 Send			Drum 12
+Map	Knob 5		Drum 12 Aux 2 Send			Drum 12
+Map	Knob 6		Drum 12 Tone			Drum 12
+Map	Knob 7		Drum 12 Pan			Drum 12
+Map	Knob 8		Drum 12 Level			Drum 12
+
+Map	Cliplaunch 1		Pad 12 Mute			Drum 12
+Map	Cliplaunch 2		Pad 12 Solo			Drum 12
+
+Map	Knob 1		Drum 13 Pitch Offset			Drum 13
+Map	Knob 2		Drum 13 Decay Offset			Drum 13
+Map	Knob 3		Drum 13 Bus FX Send			Drum 13
+Map	Knob 4		Drum 13 Aux 1 Send			Drum 13
+Map	Knob 5		Drum 13 Aux 2 Send			Drum 13
+Map	Knob 6		Drum 13 Tone			Drum 13
+Map	Knob 7		Drum 13 Pan			Drum 13
+Map	Knob 8		Drum 13 Level			Drum 13
+
+Map	Cliplaunch 1		Pad 13 Mute			Drum 13
+Map	Cliplaunch 2		Pad 13 Solo			Drum 13
+
+Map	Knob 1		Drum 14 Pitch Offset			Drum 14
+Map	Knob 2		Drum 14 Decay Offset			Drum 14
+Map	Knob 3		Drum 14 Bus FX Send			Drum 14
+Map	Knob 4		Drum 14 Aux 1 Send			Drum 14
+Map	Knob 5		Drum 14 Aux 2 Send			Drum 14
+Map	Knob 6		Drum 14 Tone			Drum 14
+Map	Knob 7		Drum 14 Pan			Drum 14
+Map	Knob 8		Drum 14 Level			Drum 14
+
+Map	Cliplaunch 1		Pad 14 Mute			Drum 14
+Map	Cliplaunch 2		Pad 14 Solo			Drum 14
+
+Map	Knob 1		Drum 15 Pitch Offset			Drum 15
+Map	Knob 2		Drum 15 Decay Offset			Drum 15
+Map	Knob 3		Drum 15 Bus FX Send			Drum 15
+Map	Knob 4		Drum 15 Aux 1 Send			Drum 15
+Map	Knob 5		Drum 15 Aux 2 Send			Drum 15
+Map	Knob 6		Drum 15 Tone			Drum 15
+Map	Knob 7		Drum 15 Pan			Drum 15
+Map	Knob 8		Drum 15 Level			Drum 15
+
+Map	Cliplaunch 1		Pad 15 Mute			Drum 15
+Map	Cliplaunch 2		Pad 15 Solo			Drum 15
+
+Map	Knob 1		Drum 16 Pitch Offset			Drum 16
+Map	Knob 2		Drum 16 Decay Offset			Drum 16
+Map	Knob 3		Drum 16 Bus FX Send			Drum 16
+Map	Knob 4		Drum 16 Aux 1 Send			Drum 16
+Map	Knob 5		Drum 16 Aux 2 Send			Drum 16
+Map	Knob 6		Drum 16 Tone			Drum 16
+Map	Knob 7		Drum 16 Pan			Drum 16
+Map	Knob 8		Drum 16 Level			Drum 16
+
+Map	Cliplaunch 1		Pad 16 Mute			Drum 16
+Map	Cliplaunch 2		Pad 16 Solo			Drum 16
+
+
+Scope	Propellerheads	MClass Equalizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Low Shelf Frequency
+Map	Knob 2		Low Shelf Gain
+Map	Knob 3		Parametric 1 Frequency
+Map	Knob 4		Parametric 1 Gain
+Map	Knob 5		Parametric 2 Frequency
+Map	Knob 6		Parametric 2 Gain
+Map	Knob 7		Hi Shelf Frequency
+Map	Knob 8		Hi Shelf Gain
+
+Map	Cliplaunch 1		Parametric 1 Enable
+Map	Cliplaunch 2		Parametric 2 Enable
+
+
+Scope	Propellerheads	MClass Stereo Imager
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 8		Enabled
+Map	Knob 1		Low Width
+Map	Knob 2		X-Over Frequency
+Map	Knob 3		High Width
+Map	Knob 4		Solo Mode
+
+
+Scope	Propellerheads	MClass Compressor
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Input Gain
+Map	Knob 2		Threshold
+Map	Knob 3		Ratio
+Map	Knob 4		Attack
+Map	Knob 5		Release
+Map	Knob 6		Output Gain
+Map	Knob 8		Enabled
+
+Map	Cliplaunch 1		Soft Knee
+Map	Cliplaunch 2		Sidechain Solo
+
+
+Scope	Propellerheads	MClass Maximizer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Input Gain
+Map	Knob 2		Attack Speed
+Map	Knob 3		Release Speed
+Map	Knob 4		Output Gain
+Map	Knob 5		Soft Clip Amount
+Map	Knob 8		Enabled
+
+Map	Cliplaunch 1		Limiter Enable
+Map	Cliplaunch 2		Soft Clip Enable
+
+
+Scope	Propellerheads	RV7000 Advanced Reverb
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Decay
+Map	Knob 2		HF Damp
+Map	Knob 3		Hi EQ
+Map	Knob 4		Dry/Wet
+Map	Knob 8		Enabled
+
+Map	Cliplaunch 1		EQ On/Off
+Map	Cliplaunch 2		Gate On/Off
+
+
+Scope	Propellerheads	Scream 4 Distortion
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Damage Control
+Map	Knob 2		Damage Type
+Map	Knob 3		Parameter 1
+Map	Knob 4		Parameter 2
+Map	Knob 5		Body Resonance
+Map	Knob 6		Body Scale
+Map	Knob 7		Body Auto
+Map	Knob 8		Body Type
+
+Map	Cliplaunch 1		Cut On/Off
+Map	Cliplaunch 2		Body On/Off
+
+
+Scope	Propellerheads	BV512 Digital Vocoder
+Define Group	Ch_Select	1-8	9-16	17-24	25-32
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Band Count
+Map	Knob 2		Attack
+Map	Knob 3		Decay
+Map	Knob 4		Shift
+Map	Knob 5		HF Emphasis
+Map	Knob 6		Dry/Wet
+Map	Knob 8		Enabled
+
+Map	Cliplaunch 1		Vocoder/Equalizer
+Map	Cliplaunch 2		Hold
+
+
+Scope	Propellerheads	RV-7 Digital Reverb
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 8		Enabled
+Map	Knob 1		Size
+Map	Knob 2		Decay
+Map	Knob 3		Damping
+Map	Knob 4		Dry/Wet
+Map	Knob 5		Algorithm
+
+
+Scope	Propellerheads	DDL-1 Digital Delay Line
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 8		Enabled
+Map	Knob 1		DelayTime (steps)
+Map	Knob 2		DelayTime (ms)
+Map	Knob 3		Feedback
+Map	Knob 4		Pan
+Map	Knob 5		Dry/Wet Balance
+
+Map	Cliplaunch 1		Unit
+Map	Cliplaunch 2		Step Length
+
+
+Scope	Propellerheads	D-11 Foldback Distortion
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 8		Enabled
+Map	Knob 1		Amount
+Map	Knob 2		Foldback
+
+
+Scope	Propellerheads	ECF-42 Envelope Controlled Filter
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Frequency
+Map	Knob 2		Resonance
+Map	Knob 3		Env Amount
+Map	Knob 4		Velocity
+Map	Knob 5		Attack
+Map	Knob 6		Decay
+Map	Knob 7		Sustain
+Map	Knob 8		Release
+
+
+Scope	Propellerheads	CF-101 Chorus/Flanger
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 8		Enabled
+Map	Knob 1		Delay
+Map	Knob 2		Feedback
+Map	Knob 3		Rate
+Map	Knob 4		Modulation Amount
+
+Map	Cliplaunch 1		LFO Sync Enable
+Map	Cliplaunch 2		Send/Insert Mode
+
+
+Scope	Propellerheads	PH-90 Phaser
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 8		Enabled
+Map	Knob 1		Frequency
+Map	Knob 2		Split
+Map	Knob 3		Width
+Map	Knob 4		Rate
+Map	Knob 5		Frequency Modulation
+Map	Knob 6		Feedback
+
+Map	Cliplaunch 1		LFO Sync Enable
+
+
+Scope	Propellerheads	UN-16 Unison
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 8		Enabled
+Map	Knob 1		Detune
+Map	Knob 2		Dry/Wet
+Map	Knob 3		Voice Count
+
+
+Scope	Propellerheads	COMP-01 Compressor/Limiter
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 8		Enabled
+Map	Knob 1		Ratio
+Map	Knob 2		Threshold
+Map	Knob 3		Attack
+Map	Knob 4		Release
+
+
+Scope	Propellerheads	PEQ-2 Two Band Parametric EQ
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Filter A Freq
+Map	Knob 2		Filter A Q
+Map	Knob 3		Filter A Gain
+Map	Knob 4		Filter B Freq
+Map	Knob 5		Filter B Q
+Map	Knob 6		Filter B Gain
+Map	Knob 8		Enabled
+
+Map	Cliplaunch 1		Filter B On/Off
+
+
+Scope	Propellerheads	Matrix Pattern Sequencer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Pattern Select in Bank
+Map	Knob 2		Bank Select
+Map	Knob 3		Resolution
+
+Map	Cliplaunch 1		Pattern Enable
+Map	Cliplaunch 2		Run
+
+
+Scope	Propellerheads	RPG-8 Monophonic Arpeggiator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Pad 1		Pattern Step 1
+Map	Pad 2		Pattern Step 2
+Map	Pad 3		Pattern Step 3
+Map	Pad 4		Pattern Step 4
+Map	Pad 5		Pattern Step 5
+Map	Pad 6		Pattern Step 6
+Map	Pad 7		Pattern Step 7
+Map	Pad 8		Pattern Step 8
+Map	Pad 9		Pattern Step 9
+Map	Pad 10		Pattern Step 10
+Map	Pad 11		Pattern Step 11
+Map	Pad 12		Pattern Step 12
+Map	Pad 13		Pattern Step 13
+Map	Pad 14		Pattern Step 14
+Map	Pad 15		Pattern Step 15
+Map	Pad 16		Pattern Step 16
+
+Map	Knob 1		Velocity/Manual
+Map	Knob 2		Octave Shift
+Map	Knob 3		Mode
+Map	Knob 4		Octave
+Map	Knob 5		Insert
+Map	Knob 6		Rate
+Map	Knob 7		Gate Length
+Map	Knob 8		Pattern Step Count
+
+Map	Cliplaunch 1		Arpeggiator Enable
+Map	Cliplaunch 2		Hold
+
+
+Scope	Propellerheads	ID8 Instrument Device
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Category
+Map	FORWARD		Select Next Category
+
+Map	Knob 1		Parameter 1
+Map	Knob 2		Parameter 2
+Map	Knob 3		Volume
+
+Map	Cliplaunch 1		Select Previous Sound
+Map	Cliplaunch 2		Select Next Sound
+
+
+Scope	Propellerheads	Line 6 Guitar Amp
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Volume Pedal
+Map	Knob 2		Wah Pedal
+Map	Knob 3		Drive
+Map	Knob 4		Bass
+Map	Knob 5		Middle
+Map	Knob 6		Treble
+Map	Knob 7		Presence
+Map	Knob 8		Volume
+
+Map	Cliplaunch 1		Wah Pedal On
+
+
+Scope	Propellerheads	Line 6 Bass Amp
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Comp Threshold
+Map	Knob 2		Drive
+Map	Knob 3		Bass
+Map	Knob 4		Lo Mid
+Map	Knob 5		Hi Mid
+Map	Knob 6		Treble
+Map	Knob 7		Volume
+
+Map	Cliplaunch 1		Compressor On
+
+
+Scope	Propellerheads	Neptune Pitch Adjuster
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		Vibrato Rate
+Map	Knob 2		Semitones
+Map	Knob 3		Cent
+Map	Knob 4		Formant Shift
+Map	Knob 5		Correction Speed
+Map	Knob 6		Preserve Expression
+Map	Knob 7		Pitched Signal Level
+Map	Knob 8		Voice Synth Level
+
+Map	Cliplaunch 1		Formant On/Off
+Map	Cliplaunch 2		Pitch Adjust On/Off
+
+
+Scope	Propellerheads	The Echo
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Input Mode
+Map	Knob 2		Ping-Pong Pan
+Map	Knob 3		Right Ch Feedback Offset
+Map	Knob 4		Drive Type
+Map	Knob 5		Envelope
+Map	Knob 6		LFO Rate
+Map	Knob 7		LFO Amount
+Map	Knob 8		Dry/Wet Balance
+
+Map	Cliplaunch 1		Diffuse On
+Map	Cliplaunch 2		Filter On
+
+
+Scope	Propellerheads	Mixer 14:2
+Define Group	Channels	Chan 1	Chan 2	Chan 3	Chan 4	Chan 5	Chan 6	Chan 7	Chan 8	Chan 9	Chan 10	Chan 11	Chan 12	Chan 13	Chan 14
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Pad 1		Channels=Chan 1
+Map	Pad 2		Channels=Chan 2
+Map	Pad 3		Channels=Chan 3
+Map	Pad 4		Channels=Chan 4
+Map	Pad 5		Channels=Chan 5
+Map	Pad 6		Channels=Chan 6
+Map	Pad 7		Channels=Chan 7
+Map	Pad 8		Channels=Chan 8
+Map	Pad 9		Channels=Chan 9
+Map	Pad 10		Channels=Chan 10
+Map	Pad 11		Channels=Chan 11
+Map	Pad 12		Channels=Chan 12
+Map	Pad 13		Channels=Chan 13
+Map	Pad 14		Channels=Chan 14
+
+
+Map	Knob 1		Channel 1 Level			Chan 1
+Map	Knob 2		Channel 1 Pan			Chan 1
+Map	Knob 3		Channel 1 Bass Amount			Chan 1
+Map	Knob 4		Channel 1 Treble Amount			Chan 1
+Map	Knob 5		Channel 1 Aux 1 Send			Chan 1
+Map	Knob 6		Channel 1 Aux 2 Send			Chan 1
+Map	Knob 7		Channel 1 Aux 3 Send			Chan 1
+Map	Knob 8		Channel 1 Aux 4 Send			Chan 1
+
+Map	Cliplaunch 1		Channel 1 Mute			Chan 1
+Map	Cliplaunch 2		Channel 1 Solo			Chan 1
+
+Map	Knob 1		Channel 2 Level			Chan 2
+Map	Knob 2		Channel 2 Pan			Chan 2
+Map	Knob 3		Channel 2 Bass Amount			Chan 2
+Map	Knob 4		Channel 2 Treble Amount			Chan 2
+Map	Knob 5		Channel 2 Aux 1 Send			Chan 2
+Map	Knob 6		Channel 2 Aux 2 Send			Chan 2
+Map	Knob 7		Channel 2 Aux 3 Send			Chan 2
+Map	Knob 8		Channel 2 Aux 4 Send			Chan 2
+
+Map	Cliplaunch 1		Channel 2 Mute			Chan 2
+Map	Cliplaunch 2		Channel 2 Solo			Chan 2
+
+Map	Knob 1		Channel 3 Level			Chan 3
+Map	Knob 2		Channel 3 Pan			Chan 3
+Map	Knob 3		Channel 3 Bass Amount			Chan 3
+Map	Knob 4		Channel 3 Treble Amount			Chan 3
+Map	Knob 5		Channel 3 Aux 1 Send			Chan 3
+Map	Knob 6		Channel 3 Aux 2 Send			Chan 3
+Map	Knob 7		Channel 3 Aux 3 Send			Chan 3
+Map	Knob 8		Channel 3 Aux 4 Send			Chan 3
+
+Map	Cliplaunch 1		Channel 3 Mute			Chan 3
+Map	Cliplaunch 2		Channel 3 Solo			Chan 3
+
+Map	Knob 1		Channel 4 Level			Chan 4
+Map	Knob 2		Channel 4 Pan			Chan 4
+Map	Knob 3		Channel 4 Bass Amount			Chan 4
+Map	Knob 4		Channel 4 Treble Amount			Chan 4
+Map	Knob 5		Channel 4 Aux 1 Send			Chan 4
+Map	Knob 6		Channel 4 Aux 2 Send			Chan 4
+Map	Knob 7		Channel 4 Aux 3 Send			Chan 4
+Map	Knob 8		Channel 4 Aux 4 Send			Chan 4
+
+Map	Cliplaunch 1		Channel 4 Mute			Chan 4
+Map	Cliplaunch 2		Channel 4 Solo			Chan 4
+
+Map	Knob 1		Channel 5 Level			Chan 5
+Map	Knob 2		Channel 5 Pan			Chan 5
+Map	Knob 3		Channel 5 Bass Amount			Chan 5
+Map	Knob 4		Channel 5 Treble Amount			Chan 5
+Map	Knob 5		Channel 5 Aux 1 Send			Chan 5
+Map	Knob 6		Channel 5 Aux 2 Send			Chan 5
+Map	Knob 7		Channel 5 Aux 3 Send			Chan 5
+Map	Knob 8		Channel 5 Aux 4 Send			Chan 5
+
+Map	Cliplaunch 1		Channel 5 Mute			Chan 5
+Map	Cliplaunch 2		Channel 5 Solo			Chan 5
+
+Map	Knob 1		Channel 6 Level			Chan 6
+Map	Knob 2		Channel 6 Pan			Chan 6
+Map	Knob 3		Channel 6 Bass Amount			Chan 6
+Map	Knob 4		Channel 6 Treble Amount			Chan 6
+Map	Knob 5		Channel 6 Aux 1 Send			Chan 6
+Map	Knob 6		Channel 6 Aux 2 Send			Chan 6
+Map	Knob 7		Channel 6 Aux 3 Send			Chan 6
+Map	Knob 8		Channel 6 Aux 4 Send			Chan 6
+
+Map	Cliplaunch 1		Channel 6 Mute			Chan 6
+Map	Cliplaunch 2		Channel 6 Solo			Chan 6
+
+Map	Knob 1		Channel 7 Level			Chan 7
+Map	Knob 2		Channel 7 Pan			Chan 7
+Map	Knob 3		Channel 7 Bass Amount			Chan 7
+Map	Knob 4		Channel 7 Treble Amount			Chan 7
+Map	Knob 5		Channel 7 Aux 1 Send			Chan 7
+Map	Knob 6		Channel 7 Aux 2 Send			Chan 7
+Map	Knob 7		Channel 7 Aux 3 Send			Chan 7
+Map	Knob 8		Channel 7 Aux 4 Send			Chan 7
+
+Map	Cliplaunch 1		Channel 7 Mute			Chan 7
+Map	Cliplaunch 2		Channel 7 Solo			Chan 7
+
+Map	Knob 1		Channel 8 Level			Chan 8
+Map	Knob 2		Channel 8 Pan			Chan 8
+Map	Knob 3		Channel 8 Bass Amount			Chan 8
+Map	Knob 4		Channel 8 Treble Amount			Chan 8
+Map	Knob 5		Channel 8 Aux 1 Send			Chan 8
+Map	Knob 6		Channel 8 Aux 2 Send			Chan 8
+Map	Knob 7		Channel 8 Aux 3 Send			Chan 8
+Map	Knob 8		Channel 8 Aux 4 Send			Chan 8
+
+Map	Cliplaunch 1		Channel 8 Mute			Chan 8
+Map	Cliplaunch 2		Channel 8 Solo			Chan 8
+
+Map	Knob 1		Channel 9 Level			Chan 9
+Map	Knob 2		Channel 9 Pan			Chan 9
+Map	Knob 3		Channel 9 Bass Amount			Chan 9
+Map	Knob 4		Channel 9 Treble Amount			Chan 9
+Map	Knob 5		Channel 9 Aux 1 Send			Chan 9
+Map	Knob 6		Channel 9 Aux 2 Send			Chan 9
+Map	Knob 7		Channel 9 Aux 3 Send			Chan 9
+Map	Knob 8		Channel 9 Aux 4 Send			Chan 9
+
+Map	Cliplaunch 1		Channel 9 Mute			Chan 9
+Map	Cliplaunch 2		Channel 9 Solo			Chan 9
+
+Map	Knob 1		Channel 10 Level			Chan 10
+Map	Knob 2		Channel 10 Pan			Chan 10
+Map	Knob 3		Channel 10 Bass Amount			Chan 10
+Map	Knob 4		Channel 10 Treble Amount			Chan 10
+Map	Knob 5		Channel 10 Aux 1 Send			Chan 10
+Map	Knob 6		Channel 10 Aux 2 Send			Chan 10
+Map	Knob 7		Channel 10 Aux 3 Send			Chan 10
+Map	Knob 8		Channel 10 Aux 4 Send			Chan 10
+
+Map	Cliplaunch 1		Channel 10 Mute			Chan 10
+Map	Cliplaunch 2		Channel 10 Solo			Chan 10
+
+Map	Knob 1		Channel 11 Level			Chan 11
+Map	Knob 2		Channel 11 Pan			Chan 11
+Map	Knob 3		Channel 11 Bass Amount			Chan 11
+Map	Knob 4		Channel 11 Treble Amount			Chan 11
+Map	Knob 5		Channel 11 Aux 1 Send			Chan 11
+Map	Knob 6		Channel 11 Aux 2 Send			Chan 11
+Map	Knob 7		Channel 11 Aux 3 Send			Chan 11
+Map	Knob 8		Channel 11 Aux 4 Send			Chan 11
+
+Map	Cliplaunch 1		Channel 11 Mute			Chan 11
+Map	Cliplaunch 2		Channel 11 Solo			Chan 11
+
+Map	Knob 1		Channel 12 Level			Chan 12
+Map	Knob 2		Channel 12 Pan			Chan 12
+Map	Knob 3		Channel 12 Bass Amount			Chan 12
+Map	Knob 4		Channel 12 Treble Amount			Chan 12
+Map	Knob 5		Channel 12 Aux 1 Send			Chan 12
+Map	Knob 6		Channel 12 Aux 2 Send			Chan 12
+Map	Knob 7		Channel 12 Aux 3 Send			Chan 12
+Map	Knob 8		Channel 12 Aux 4 Send			Chan 12
+
+Map	Cliplaunch 1		Channel 12 Mute			Chan 12
+Map	Cliplaunch 2		Channel 12 Solo			Chan 12
+
+Map	Knob 1		Channel 13 Level			Chan 13
+Map	Knob 2		Channel 13 Pan			Chan 13
+Map	Knob 3		Channel 13 Bass Amount			Chan 13
+Map	Knob 4		Channel 13 Treble Amount			Chan 13
+Map	Knob 5		Channel 13 Aux 1 Send			Chan 13
+Map	Knob 6		Channel 13 Aux 2 Send			Chan 13
+Map	Knob 7		Channel 13 Aux 3 Send			Chan 13
+Map	Knob 8		Channel 13 Aux 4 Send			Chan 13
+
+Map	Cliplaunch 1		Channel 13 Mute			Chan 13
+Map	Cliplaunch 2		Channel 13 Solo			Chan 13
+
+Map	Knob 1		Channel 14 Level			Chan 14
+Map	Knob 2		Channel 14 Pan			Chan 14
+Map	Knob 3		Channel 14 Bass Amount			Chan 14
+Map	Knob 4		Channel 14 Treble Amount			Chan 14
+Map	Knob 5		Channel 14 Aux 1 Send			Chan 14
+Map	Knob 6		Channel 14 Aux 2 Send			Chan 14
+Map	Knob 7		Channel 14 Aux 3 Send			Chan 14
+Map	Knob 8		Channel 14 Aux 4 Send			Chan 14
+
+Map	Cliplaunch 1		Channel 14 Mute			Chan 14
+Map	Cliplaunch 2		Channel 14 Solo			Chan 14
+
+
+Scope	Propellerheads	Line Mixer 6:2
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 8		Aux Return Level
+Map	Knob 1		Channel 1 Level
+Map	Knob 2		Channel 2 Level
+Map	Knob 3		Channel 3 Level
+Map	Knob 4		Channel 4 Level
+Map	Knob 5		Channel 5 Level
+Map	Knob 6		Channel 6 Level
+
+
+Scope	Propellerheads	Record Master Section
+Define Group	Channel	Chan 1	Chan 2	Chan 3	Chan 4	Chan 5	Chan 6	Chan 7	Chan 8
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Pad 1		Channel=Chan 1
+Map	Pad 2		Channel=Chan 2
+Map	Pad 3		Channel=Chan 3
+Map	Pad 4		Channel=Chan 4
+Map	Pad 5		Channel=Chan 5
+Map	Pad 6		Channel=Chan 6
+Map	Pad 7		Channel=Chan 7
+Map	Pad 8		Channel=Chan 8
+
+Map	REWIND		Previous 8 Remote Base Channel
+Map	FORWARD		Next 8 Remote Base Channel
+
+Map	Knob 1		Channel 1 Level			Chan 1
+Map	Knob 2		Channel 1 C Threshold			Chan 1
+Map	Knob 3		Channel 1 C Release			Chan 1
+Map	Knob 4		Channel 1 G Threshold			Chan 1
+Map	Knob 5		Channel 1 G Release			Chan 1
+Map	Knob 6		Channel 1 LPF Frequency			Chan 1
+Map	Knob 7		Channel 1 HPF Frequency			Chan 1
+Map	Knob 8		Channel 1 Pan
+
+Map	Cliplaunch 1		Channel 1 Mute			Chan 1
+Map	Cliplaunch 2		Channel 1 Solo
+
+Map	Knob 1		Channel 2 Level			Chan 2
+Map	Knob 2		Channel 2 C Threshold			Chan 2
+Map	Knob 3		Channel 2 C Release			Chan 2
+Map	Knob 4		Channel 2 G Threshold			Chan 2
+Map	Knob 5		Channel 2 G Release			Chan 2
+Map	Knob 6		Channel 2 LPF Frequency			Chan 2
+Map	Knob 7		Channel 2 HPF Frequency			Chan 2
+Map	Knob 8		Channel 2 Pan			Chan 2
+
+Map	Cliplaunch 1		Channel 2 Mute			Chan 2
+Map	Cliplaunch 2		Channel 2 Solo			Chan 2
+
+Map	Knob 1		Channel 3 Level			Chan 3
+Map	Knob 2		Channel 3 C Threshold			Chan 3
+Map	Knob 3		Channel 3 C Release			Chan 3
+Map	Knob 4		Channel 3 G Threshold			Chan 3
+Map	Knob 5		Channel 3 G Release			Chan 3
+Map	Knob 6		Channel 3 LPF Frequency			Chan 3
+Map	Knob 7		Channel 3 HPF Frequency			Chan 3
+Map	Knob 8		Channel 3 Pan			Chan 3
+
+Map	Cliplaunch 1		Channel 3 Mute			Chan 3
+Map	Cliplaunch 2		Channel 3 Solo			Chan 3
+
+Map	Knob 1		Channel 4 Level			Chan 4
+Map	Knob 2		Channel 4 C Threshold			Chan 4
+Map	Knob 3		Channel 4 C Release			Chan 4
+Map	Knob 4		Channel 4 G Threshold			Chan 4
+Map	Knob 5		Channel 4 G Release			Chan 4
+Map	Knob 6		Channel 4 LPF Frequency			Chan 4
+Map	Knob 7		Channel 4 HPF Frequency			Chan 4
+Map	Knob 8		Channel 4 Pan			Chan 4
+
+Map	Cliplaunch 1		Channel 4 Mute			Chan 4
+Map	Cliplaunch 2		Channel 4 Solo			Chan 4
+
+Map	Knob 1		Channel 5 Level			Chan 5
+Map	Knob 2		Channel 5 C Threshold			Chan 5
+Map	Knob 3		Channel 5 C Release			Chan 5
+Map	Knob 4		Channel 5 G Threshold			Chan 5
+Map	Knob 5		Channel 5 G Release			Chan 5
+Map	Knob 6		Channel 5 LPF Frequency			Chan 5
+Map	Knob 7		Channel 5 HPF Frequency			Chan 5
+Map	Knob 8		Channel 5 Pan			Chan 5
+
+Map	Cliplaunch 1		Channel 5 Mute			Chan 5
+Map	Cliplaunch 2		Channel 5 Solo			Chan 5
+
+Map	Knob 1		Channel 6 Level			Chan 6
+Map	Knob 2		Channel 6 C Threshold			Chan 6
+Map	Knob 3		Channel 6 C Release			Chan 6
+Map	Knob 4		Channel 6 G Threshold			Chan 6
+Map	Knob 5		Channel 6 G Release			Chan 6
+Map	Knob 6		Channel 6 LPF Frequency			Chan 6
+Map	Knob 7		Channel 6 HPF Frequency			Chan 6
+Map	Knob 8		Channel 6 Pan			Chan 6
+
+Map	Cliplaunch 1		Channel 6 Mute			Chan 6
+Map	Cliplaunch 2		Channel 6 Solo			Chan 6
+
+Map	Knob 1		Channel 7 Level			Chan 7
+Map	Knob 2		Channel 7 C Threshold			Chan 7
+Map	Knob 3		Channel 7 C Release			Chan 7
+Map	Knob 4		Channel 7 G Threshold			Chan 7
+Map	Knob 5		Channel 7 G Release			Chan 7
+Map	Knob 6		Channel 7 LPF Frequency			Chan 7
+Map	Knob 7		Channel 7 HPF Frequency			Chan 7
+Map	Knob 8		Channel 7 Pan			Chan 7
+
+Map	Cliplaunch 1		Channel 7 Mute			Chan 7
+Map	Cliplaunch 2		Channel 7 Solo			Chan 7
+
+Map	Knob 1		Channel 8 Level			Chan 8
+Map	Knob 2		Channel 8 C Threshold			Chan 8
+Map	Knob 3		Channel 8 C Release			Chan 8
+Map	Knob 4		Channel 8 G Threshold			Chan 8
+Map	Knob 5		Channel 8 G Release			Chan 8
+Map	Knob 6		Channel 8 LPF Frequency			Chan 8
+Map	Knob 7		Channel 8 HPF Frequency			Chan 8
+Map	Knob 8		Channel 8 Pan			Chan 8
+
+Map	Cliplaunch 1		Channel 8 Mute			Chan 8
+Map	Cliplaunch 2		Channel 8 Solo			Chan 8
+
+
+Scope	Propellerheads	Reason Master Section
+Define Group	Channel	Chan 1	Chan 2	Chan 3	Chan 4	Chan 5	Chan 6	Chan 7	Chan 8
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Pad 1		Channel=Chan 1
+Map	Pad 2		Channel=Chan 2
+Map	Pad 3		Channel=Chan 3
+Map	Pad 4		Channel=Chan 4
+Map	Pad 5		Channel=Chan 5
+Map	Pad 6		Channel=Chan 6
+Map	Pad 7		Channel=Chan 7
+Map	Pad 8		Channel=Chan 8
+
+Map	REWIND		Previous 8 Remote Base Channel
+Map	FORWARD		Next 8 Remote Base Channel
+
+Map	Knob 1		Channel 1 Level			Chan 1
+Map	Knob 2		Channel 1 C Threshold			Chan 1
+Map	Knob 3		Channel 1 C Release			Chan 1
+Map	Knob 4		Channel 1 G Threshold			Chan 1
+Map	Knob 5		Channel 1 G Release			Chan 1
+Map	Knob 6		Channel 1 LPF Frequency			Chan 1
+Map	Knob 7		Channel 1 HPF Frequency			Chan 1
+Map	Knob 8		Channel 1 Pan			Chan 1
+
+Map	Cliplaunch 1		Channel 1 Mute			Chan 1
+Map	Cliplaunch 2		Channel 1 Solo			Chan 1
+
+Map	Knob 1		Channel 2 Level			Chan 2
+Map	Knob 2		Channel 2 C Threshold			Chan 2
+Map	Knob 3		Channel 2 C Release			Chan 2
+Map	Knob 4		Channel 2 G Threshold			Chan 2
+Map	Knob 5		Channel 2 G Release			Chan 2
+Map	Knob 6		Channel 2 LPF Frequency			Chan 2
+Map	Knob 7		Channel 2 HPF Frequency			Chan 2
+Map	Knob 8		Channel 2 Pan			Chan 2
+
+Map	Cliplaunch 1		Channel 2 Mute			Chan 2
+Map	Cliplaunch 2		Channel 2 Solo			Chan 2
+
+Map	Knob 1		Channel 3 Level			Chan 3
+Map	Knob 2		Channel 3 C Threshold			Chan 3
+Map	Knob 3		Channel 3 C Release			Chan 3
+Map	Knob 4		Channel 3 G Threshold			Chan 3
+Map	Knob 5		Channel 3 G Release			Chan 3
+Map	Knob 6		Channel 3 LPF Frequency			Chan 3
+Map	Knob 7		Channel 3 HPF Frequency			Chan 3
+Map	Knob 8		Channel 3 Pan			Chan 3
+
+Map	Cliplaunch 1		Channel 3 Mute			Chan 3
+Map	Cliplaunch 2		Channel 3 Solo			Chan 3
+
+Map	Knob 1		Channel 4 Level			Chan 4
+Map	Knob 2		Channel 4 C Threshold			Chan 4
+Map	Knob 3		Channel 4 C Release			Chan 4
+Map	Knob 4		Channel 4 G Threshold			Chan 4
+Map	Knob 5		Channel 4 G Release			Chan 4
+Map	Knob 6		Channel 4 LPF Frequency			Chan 4
+Map	Knob 7		Channel 4 HPF Frequency			Chan 4
+Map	Knob 8		Channel 4 Pan			Chan 4
+
+Map	Cliplaunch 1		Channel 4 Mute			Chan 4
+Map	Cliplaunch 2		Channel 4 Solo			Chan 4
+
+Map	Knob 1		Channel 5 Level			Chan 5
+Map	Knob 2		Channel 5 C Threshold			Chan 5
+Map	Knob 3		Channel 5 C Release			Chan 5
+Map	Knob 4		Channel 5 G Threshold			Chan 5
+Map	Knob 5		Channel 5 G Release			Chan 5
+Map	Knob 6		Channel 5 LPF Frequency			Chan 5
+Map	Knob 7		Channel 5 HPF Frequency			Chan 5
+Map	Knob 8		Channel 5 Pan			Chan 5
+
+Map	Cliplaunch 1		Channel 5 Mute			Chan 5
+Map	Cliplaunch 2		Channel 5 Solo			Chan 5
+
+Map	Knob 1		Channel 6 Level			Chan 6
+Map	Knob 2		Channel 6 C Threshold			Chan 6
+Map	Knob 3		Channel 6 C Release			Chan 6
+Map	Knob 4		Channel 6 G Threshold			Chan 6
+Map	Knob 5		Channel 6 G Release			Chan 6
+Map	Knob 6		Channel 6 LPF Frequency			Chan 6
+Map	Knob 7		Channel 6 HPF Frequency			Chan 6
+Map	Knob 8		Channel 6 Pan			Chan 6
+
+Map	Cliplaunch 1		Channel 6 Mute			Chan 6
+Map	Cliplaunch 2		Channel 6 Solo			Chan 6
+
+Map	Knob 1		Channel 7 Level			Chan 7
+Map	Knob 2		Channel 7 C Threshold			Chan 7
+Map	Knob 3		Channel 7 C Release			Chan 7
+Map	Knob 4		Channel 7 G Threshold			Chan 7
+Map	Knob 5		Channel 7 G Release			Chan 7
+Map	Knob 6		Channel 7 LPF Frequency			Chan 7
+Map	Knob 7		Channel 7 HPF Frequency			Chan 7
+Map	Knob 8		Channel 7 Pan			Chan 7
+
+Map	Cliplaunch 1		Channel 7 Mute			Chan 7
+Map	Cliplaunch 2		Channel 7 Solo			Chan 7
+
+Map	Knob 1		Channel 8 Level			Chan 8
+Map	Knob 2		Channel 8 C Threshold			Chan 8
+Map	Knob 3		Channel 8 C Release			Chan 8
+Map	Knob 4		Channel 8 G Threshold			Chan 8
+Map	Knob 5		Channel 8 G Release			Chan 8
+Map	Knob 6		Channel 8 LPF Frequency			Chan 8
+Map	Knob 7		Channel 8 HPF Frequency			Chan 8
+Map	Knob 8		Channel 8 Pan			Chan 8
+
+Map	Cliplaunch 1		Channel 8 Mute			Chan 8
+Map	Cliplaunch 2		Channel 8 Solo			Chan 8
+
+
+Scope	Propellerheads	Record Main Mixer Channel
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		C Ratio
+Map	Knob 2		C Threshold
+Map	Knob 3		C Release
+Map	Knob 4		G Threshold
+Map	Knob 5		G Release
+Map	Knob 6		LPF Frequency
+Map	Knob 7		HPF Frequency
+Map	Knob 8		Pan
+
+Map	Cliplaunch 1		Mute
+Map	Cliplaunch 2		Solo
+
+
+Scope	Propellerheads	Reason Main Mixer Channel
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		C Ratio
+Map	Knob 2		C Threshold
+Map	Knob 3		C Release
+Map	Knob 4		G Threshold
+Map	Knob 5		G Release
+Map	Knob 6		LPF Frequency
+Map	Knob 7		HPF Frequency
+Map	Knob 8		Pan
+
+Map	Cliplaunch 1		Mute
+Map	Cliplaunch 2		Solo
+
+
+Scope	Propellerheads	Reason Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Track Up		Target Next Track
+Map	Track Down		Target Previous Track
+
+
+Scope	Propellerheads	Record Document
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Track Up		Target Previous Track
+Map	Track Down		Target Next Track
+
+
+Scope	Propellerheads	Alligator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Pattern
+Map	Knob 2		High Pass Resonance
+Map	Knob 3		Band Pass Resonance
+Map	Knob 4		Low Pass Resonance
+Map	Knob 5		High Pass Pan
+Map	Knob 6		Band Pass Pan
+Map	Knob 7		Low Pass Pan
+Map	Knob 8		Dry Pan
+
+Map	Cliplaunch 1		Pattern Enable
+Map	Cliplaunch 2		Shuffle
+
+
+Scope	Propellerheads	Pulveriser
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Release
+Map	Knob 2		Tone
+Map	Knob 3		Filter Mode
+Map	Knob 4		Tremor to Frequency
+Map	Knob 5		Follower to Rate
+Map	Knob 6		Follower to Frequency
+Map	Knob 7		Tremor Waveform
+Map	Knob 8		Blend
+
+Map	Cliplaunch 1		Sync
+Map	Cliplaunch 2		Tremor Spread
+
+
+Scope	Propellerheads	ReGroove Mixer
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1		A1 Shuffle
+Map	Knob 2		A2 Shuffle
+Map	Knob 3		A3 Shuffle
+Map	Knob 4		A4 Shuffle
+Map	Knob 5		A5 Shuffle
+Map	Knob 6		A6 Shuffle
+Map	Knob 7		A7 Shuffle
+Map	Knob 8		A8 Shuffle
+
+
+Scope	Propellerhead Software	se.propellerheads.Monotone
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	REWIND		Select Previous Patch
+Map	FORWARD		Select Next Patch
+
+Map	Knob 1		Filter Freq
+Map	Knob 2		Filter Reso
+Map	Knob 3		Filter Env Amount
+Map	Knob 4		Filter Drive
+Map	Knob 5		Osc Mix
+Map	Knob 6		Osc Detune
+Map	Knob 7		LFO Rate
+Map	Knob 8		Mod Wheel
+
+
+
+
+
+
+
+
+
+
+
+
